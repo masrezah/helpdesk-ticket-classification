@@ -1,0 +1,1008 @@
+﻿Kategori,Subkategori,Deskripsi
+Akses,Akses ditolak oleh API,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh API; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh akses bersyarat,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh akses bersyarat saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh aplikasi,Masalah Akses ditolak oleh aplikasi muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh basis data,Permintaan dukungan dibuat karena Akses ditolak oleh basis data terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh firewall,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh firewall; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh gangguan layanan,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh gangguan layanan dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh gateway,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh gateway; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh jendela pemeliharaan,Pengguna meminta bantuan karena Akses ditolak oleh jendela pemeliharaan muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan ABAC,Pengguna melaporkan Akses ditolak oleh kebijakan ABAC; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan BYOD,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan BYOD pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan CASB,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan CASB; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kebijakan CIS,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kebijakan CIS saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kebijakan DLP,Masalah Akses ditolak oleh kebijakan DLP muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kebijakan GDPR,Permintaan dukungan dibuat karena Akses ditolak oleh kebijakan GDPR terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh kebijakan HIPAA,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh kebijakan HIPAA; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh kebijakan IAM,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh kebijakan IAM dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh kebijakan ISO,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh kebijakan ISO; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh kebijakan MFA,Pengguna meminta bantuan karena Akses ditolak oleh kebijakan MFA muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan NIST,Pengguna melaporkan Akses ditolak oleh kebijakan NIST; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan PCI,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan PCI pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan RBAC,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan RBAC; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kebijakan SIEM,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kebijakan SIEM saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kebijakan SOC,Masalah Akses ditolak oleh kebijakan SOC muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kebijakan SOX,Permintaan dukungan dibuat karena Akses ditolak oleh kebijakan SOX terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh kebijakan VPN,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh kebijakan VPN; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh kebijakan auditor,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh kebijakan auditor dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh kebijakan browser,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh kebijakan browser; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh kebijakan endpoint,Pengguna meminta bantuan karena Akses ditolak oleh kebijakan endpoint muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan enkripsi,Pengguna melaporkan Akses ditolak oleh kebijakan enkripsi; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan geolokasi,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan geolokasi pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan jaringan,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan jaringan; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kebijakan kata sandi,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kebijakan kata sandi saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kebijakan kepatuhan,Masalah Akses ditolak oleh kebijakan kepatuhan muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kebijakan khusus,Permintaan dukungan dibuat karena Akses ditolak oleh kebijakan khusus terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh kebijakan kontraktor,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh kebijakan kontraktor; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh kebijakan mitra,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh kebijakan mitra dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh kebijakan perangkat seluler,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh kebijakan perangkat seluler; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh kebijakan regulasi,Pengguna meminta bantuan karena Akses ditolak oleh kebijakan regulasi muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan sertifikat,Pengguna melaporkan Akses ditolak oleh kebijakan sertifikat; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan sistem operasi,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan sistem operasi pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan tamu,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan tamu; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kebijakan token,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kebijakan token saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kebijakan vendor,Masalah Akses ditolak oleh kebijakan vendor muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kepatuhan perangkat,Permintaan dukungan dibuat karena Akses ditolak oleh kepatuhan perangkat terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh kesalahan konfigurasi,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh kesalahan konfigurasi; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh kesalahan sistem,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh kesalahan sistem dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh layanan cloud,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh layanan cloud; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh pembatasan sementara,Pengguna meminta bantuan karena Akses ditolak oleh pembatasan sementara muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh penyedia SaaS,Pengguna melaporkan Akses ditolak oleh penyedia SaaS; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh proxy,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh proxy pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh router,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh router; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh server,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh server saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh switch,Masalah Akses ditolak oleh switch muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses kartu identitas/fisik ditolak,Permintaan dukungan dibuat karena Akses kartu identitas/fisik ditolak terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses pengguna ditolak,"Pada saat autentikasi, pengguna mengalami Akses pengguna ditolak; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akun cloud ditangguhkan,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akun cloud ditangguhkan dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akun dinonaktifkan oleh kebijakan,"Saat memulai pekerjaan, pengguna mendapati Akun dinonaktifkan oleh kebijakan; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akun email dinonaktifkan,Pengguna meminta bantuan karena Akun email dinonaktifkan muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akun tamu dinonaktifkan,Pengguna melaporkan Akun tamu dinonaktifkan; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akun terkunci,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akun terkunci pada layanan yang dibutuhkan.
+Akses,Akun tidak aktif,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akun tidak aktif; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Autentikasi LDAP gagal,Tiket dibuat setelah pengguna menemukan Autentikasi LDAP gagal saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Batas waktu akses habis,Masalah Batas waktu akses habis muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Daftar kontrol akses salah konfigurasi,Permintaan dukungan dibuat karena Daftar kontrol akses salah konfigurasi terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Eskalasi hak akses diblokir,"Pada saat autentikasi, pengguna mengalami Eskalasi hak akses diblokir; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Folder bersama tidak dapat diakses,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Folder bersama tidak dapat diakses dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Hak akses dicabut,"Saat memulai pekerjaan, pengguna mendapati Hak akses dicabut; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Kata sandi sementara kedaluwarsa,Pengguna meminta bantuan karena Kata sandi sementara kedaluwarsa muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Kegagalan audit akses,Pengguna melaporkan Kegagalan audit akses; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Kegagalan autentikasi multi-faktor,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Kegagalan autentikasi multi-faktor pada layanan yang dibutuhkan.
+Akses,Kegagalan login SSO,"Saat mencoba menggunakan layanan kerja, pengguna menemui Kegagalan login SSO; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Kegagalan login dengan sertifikat,Tiket dibuat setelah pengguna menemukan Kegagalan login dengan sertifikat saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Kegagalan login remote desktop,Masalah Kegagalan login remote desktop muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Kegagalan pencatatan akses,Permintaan dukungan dibuat karena Kegagalan pencatatan akses terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Kesalahan akses berbasis peran,"Pada saat autentikasi, pengguna mengalami Kesalahan akses berbasis peran; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Kesalahan delegasi akses,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Kesalahan delegasi akses dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Kesalahan penyediaan akun,"Saat memulai pekerjaan, pengguna mendapati Kesalahan penyediaan akun; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Kesalahan sinkronisasi direktori,Pengguna meminta bantuan karena Kesalahan sinkronisasi direktori muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Ketidaksesuaian peran akses,Pengguna melaporkan Ketidaksesuaian peran akses; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Kunci API kedaluwarsa,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Kunci API kedaluwarsa pada layanan yang dibutuhkan.
+Akses,Lisensi kedaluwarsa,"Saat mencoba menggunakan layanan kerja, pengguna menemui Lisensi kedaluwarsa; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Login VPN ditolak,Tiket dibuat setelah pengguna menemukan Login VPN ditolak saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Login biometrik gagal,Masalah Login biometrik gagal muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Masalah izin drive bersama,Permintaan dukungan dibuat karena Masalah izin drive bersama terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Masalah keanggotaan grup,"Pada saat autentikasi, pengguna mengalami Masalah keanggotaan grup; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Masalah login,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Masalah login dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Pelanggaran kebijakan akses,"Saat memulai pekerjaan, pengguna mendapati Pelanggaran kebijakan akses; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Pelanggaran kepatuhan akses,Pengguna meminta bantuan karena Pelanggaran kepatuhan akses muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Pemantauan akses dinonaktifkan,Pengguna melaporkan Pemantauan akses dinonaktifkan; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Pencabutan akses tertunda,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Pencabutan akses tertunda pada layanan yang dibutuhkan.
+Akses,Percobaan login tidak sah,"Saat mencoba menggunakan layanan kerja, pengguna menemui Percobaan login tidak sah; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Permintaan akses sementara,Tiket dibuat setelah pengguna menemukan Permintaan akses sementara saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Permintaan hak administrator,Masalah Permintaan hak administrator muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Persetujuan akses tertunda,Permintaan dukungan dibuat karena Persetujuan akses tertunda terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Reset PIN diperlukan,"Pada saat autentikasi, pengguna mengalami Reset PIN diperlukan; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Reset kata sandi,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Reset kata sandi dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Smart card tidak dikenali,"Saat memulai pekerjaan, pengguna mendapati Smart card tidak dikenali; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Tiket Kerberos kedaluwarsa,Pengguna meminta bantuan karena Tiket Kerberos kedaluwarsa muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Token akses salah konfigurasi,Pengguna melaporkan Token akses salah konfigurasi; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Token kedaluwarsa,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Token kedaluwarsa pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh API,Pengguna melaporkan Akses ditolak oleh API; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh akses bersyarat,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh akses bersyarat pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh aplikasi,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh aplikasi; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh basis data,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh basis data saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh firewall,Masalah Akses ditolak oleh firewall muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh gangguan layanan,Permintaan dukungan dibuat karena Akses ditolak oleh gangguan layanan terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh gateway,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh gateway; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh jendela pemeliharaan,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh jendela pemeliharaan dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh kebijakan ABAC,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh kebijakan ABAC; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh kebijakan BYOD,Pengguna meminta bantuan karena Akses ditolak oleh kebijakan BYOD muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan CASB,Pengguna melaporkan Akses ditolak oleh kebijakan CASB; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan CIS,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan CIS pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan DLP,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan DLP; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kebijakan GDPR,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kebijakan GDPR saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kebijakan HIPAA,Masalah Akses ditolak oleh kebijakan HIPAA muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kebijakan IAM,Permintaan dukungan dibuat karena Akses ditolak oleh kebijakan IAM terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh kebijakan ISO,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh kebijakan ISO; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh kebijakan MFA,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh kebijakan MFA dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh kebijakan NIST,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh kebijakan NIST; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh kebijakan PCI,Pengguna meminta bantuan karena Akses ditolak oleh kebijakan PCI muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan RBAC,Pengguna melaporkan Akses ditolak oleh kebijakan RBAC; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan SIEM,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan SIEM pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan SOC,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan SOC; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kebijakan SOX,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kebijakan SOX saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kebijakan VPN,Masalah Akses ditolak oleh kebijakan VPN muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kebijakan auditor,Permintaan dukungan dibuat karena Akses ditolak oleh kebijakan auditor terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh kebijakan browser,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh kebijakan browser; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh kebijakan endpoint,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh kebijakan endpoint dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh kebijakan enkripsi,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh kebijakan enkripsi; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh kebijakan geolokasi,Pengguna meminta bantuan karena Akses ditolak oleh kebijakan geolokasi muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan jaringan,Pengguna melaporkan Akses ditolak oleh kebijakan jaringan; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan kata sandi,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan kata sandi pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan kepatuhan,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan kepatuhan; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kebijakan khusus,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kebijakan khusus saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kebijakan kontraktor,Masalah Akses ditolak oleh kebijakan kontraktor muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kebijakan mitra,Permintaan dukungan dibuat karena Akses ditolak oleh kebijakan mitra terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh kebijakan perangkat seluler,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh kebijakan perangkat seluler; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh kebijakan regulasi,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh kebijakan regulasi dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh kebijakan sertifikat,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh kebijakan sertifikat; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh kebijakan sistem operasi,Pengguna meminta bantuan karena Akses ditolak oleh kebijakan sistem operasi muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh kebijakan tamu,Pengguna melaporkan Akses ditolak oleh kebijakan tamu; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh kebijakan token,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh kebijakan token pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh kebijakan vendor,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh kebijakan vendor; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses ditolak oleh kepatuhan perangkat,Tiket dibuat setelah pengguna menemukan Akses ditolak oleh kepatuhan perangkat saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses ditolak oleh kesalahan konfigurasi,Masalah Akses ditolak oleh kesalahan konfigurasi muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akses ditolak oleh kesalahan sistem,Permintaan dukungan dibuat karena Akses ditolak oleh kesalahan sistem terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akses ditolak oleh layanan cloud,"Pada saat autentikasi, pengguna mengalami Akses ditolak oleh layanan cloud; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akses ditolak oleh pembatasan sementara,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akses ditolak oleh pembatasan sementara dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akses ditolak oleh penyedia SaaS,"Saat memulai pekerjaan, pengguna mendapati Akses ditolak oleh penyedia SaaS; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akses ditolak oleh proxy,Pengguna meminta bantuan karena Akses ditolak oleh proxy muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akses ditolak oleh router,Pengguna melaporkan Akses ditolak oleh router; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Akses ditolak oleh server,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Akses ditolak oleh server pada layanan yang dibutuhkan.
+Akses,Akses ditolak oleh switch,"Saat mencoba menggunakan layanan kerja, pengguna menemui Akses ditolak oleh switch; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Akses kartu identitas/fisik ditolak,Tiket dibuat setelah pengguna menemukan Akses kartu identitas/fisik ditolak saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Akses pengguna ditolak,Masalah Akses pengguna ditolak muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Akun cloud ditangguhkan,Permintaan dukungan dibuat karena Akun cloud ditangguhkan terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Akun dinonaktifkan oleh kebijakan,"Pada saat autentikasi, pengguna mengalami Akun dinonaktifkan oleh kebijakan; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Akun email dinonaktifkan,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Akun email dinonaktifkan dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Akun tamu dinonaktifkan,"Saat memulai pekerjaan, pengguna mendapati Akun tamu dinonaktifkan; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Akun terkunci,Pengguna meminta bantuan karena Akun terkunci muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Akun tidak aktif,Pengguna melaporkan Akun tidak aktif; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Autentikasi LDAP gagal,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Autentikasi LDAP gagal pada layanan yang dibutuhkan.
+Akses,Batas waktu akses habis,"Saat mencoba menggunakan layanan kerja, pengguna menemui Batas waktu akses habis; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Daftar kontrol akses salah konfigurasi,Tiket dibuat setelah pengguna menemukan Daftar kontrol akses salah konfigurasi saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Eskalasi hak akses diblokir,Masalah Eskalasi hak akses diblokir muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Folder bersama tidak dapat diakses,Permintaan dukungan dibuat karena Folder bersama tidak dapat diakses terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Hak akses dicabut,"Pada saat autentikasi, pengguna mengalami Hak akses dicabut; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Kata sandi sementara kedaluwarsa,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Kata sandi sementara kedaluwarsa dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Kegagalan audit akses,"Saat memulai pekerjaan, pengguna mendapati Kegagalan audit akses; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Kegagalan autentikasi multi-faktor,Pengguna meminta bantuan karena Kegagalan autentikasi multi-faktor muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Kegagalan login SSO,Pengguna melaporkan Kegagalan login SSO; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Kegagalan login dengan sertifikat,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Kegagalan login dengan sertifikat pada layanan yang dibutuhkan.
+Akses,Kegagalan login remote desktop,"Saat mencoba menggunakan layanan kerja, pengguna menemui Kegagalan login remote desktop; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Kegagalan pencatatan akses,Tiket dibuat setelah pengguna menemukan Kegagalan pencatatan akses saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Kesalahan akses berbasis peran,Masalah Kesalahan akses berbasis peran muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Kesalahan delegasi akses,Permintaan dukungan dibuat karena Kesalahan delegasi akses terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Kesalahan penyediaan akun,"Pada saat autentikasi, pengguna mengalami Kesalahan penyediaan akun; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Kesalahan sinkronisasi direktori,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Kesalahan sinkronisasi direktori dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Ketidaksesuaian peran akses,"Saat memulai pekerjaan, pengguna mendapati Ketidaksesuaian peran akses; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Kunci API kedaluwarsa,Pengguna meminta bantuan karena Kunci API kedaluwarsa muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Lisensi kedaluwarsa,Pengguna melaporkan Lisensi kedaluwarsa; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Login VPN ditolak,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Login VPN ditolak pada layanan yang dibutuhkan.
+Akses,Login biometrik gagal,"Saat mencoba menggunakan layanan kerja, pengguna menemui Login biometrik gagal; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Masalah izin drive bersama,Tiket dibuat setelah pengguna menemukan Masalah izin drive bersama saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Masalah keanggotaan grup,Masalah Masalah keanggotaan grup muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Masalah login,Permintaan dukungan dibuat karena Masalah login terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Pelanggaran kebijakan akses,"Pada saat autentikasi, pengguna mengalami Pelanggaran kebijakan akses; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Pelanggaran kepatuhan akses,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Pelanggaran kepatuhan akses dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Pemantauan akses dinonaktifkan,"Saat memulai pekerjaan, pengguna mendapati Pemantauan akses dinonaktifkan; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Pencabutan akses tertunda,Pengguna meminta bantuan karena Pencabutan akses tertunda muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Akses,Percobaan login tidak sah,Pengguna melaporkan Percobaan login tidak sah; kendala tersebut membuat sumber daya yang diperlukan tidak dapat dibuka.
+Akses,Permintaan akses sementara,Pengguna tidak dapat menyelesaikan proses masuk karena mengalami Permintaan akses sementara pada layanan yang dibutuhkan.
+Akses,Permintaan hak administrator,"Saat mencoba menggunakan layanan kerja, pengguna menemui Permintaan hak administrator; proses masuk tidak dapat dilanjutkan meskipun sudah dicoba kembali."
+Akses,Persetujuan akses tertunda,Tiket dibuat setelah pengguna menemukan Persetujuan akses tertunda saat hendak menggunakan layanan untuk pekerjaan rutin.
+Akses,Reset PIN diperlukan,Masalah Reset PIN diperlukan muncul pada saat pengguna mencoba membuka layanan internal dan tetap terjadi setelah percobaan ulang.
+Akses,Reset kata sandi,Permintaan dukungan dibuat karena Reset kata sandi terjadi ketika pengguna mencoba mengakses layanan yang diperlukan.
+Akses,Smart card tidak dikenali,"Pada saat autentikasi, pengguna mengalami Smart card tidak dikenali; percobaan ulang belum memulihkan akses yang dibutuhkan."
+Akses,Tiket Kerberos kedaluwarsa,"Ketika mencoba masuk dari perangkat yang biasa digunakan, terjadi Tiket Kerberos kedaluwarsa dan pengguna tidak dapat melanjutkan aktivitas."
+Akses,Token akses salah konfigurasi,"Saat memulai pekerjaan, pengguna mendapati Token akses salah konfigurasi; sumber daya terkait tidak dapat digunakan seperti biasanya."
+Akses,Token kedaluwarsa,Pengguna meminta bantuan karena Token kedaluwarsa muncul ketika membuka sumber daya yang sebelumnya dapat digunakan.
+Jaringan,Access point salah konfigurasi,Pengguna mengalami Access point salah konfigurasi; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Access point tidak aktif,Pengguna melaporkan Access point tidak aktif; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Bandwidth terlampaui,Pengguna mengalami gangguan berupa Bandwidth terlampaui; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Batas waktu gateway habis,Pengguna melaporkan bahwa Batas waktu gateway habis muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Broadcast storm,Tiket dibuat karena Broadcast storm terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Firewall memblokir akses,Kendala Firewall memblokir akses terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Firmware router sudah usang,Permintaan dukungan dibuat setelah Firmware router sudah usang menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Gangguan internet,"Saat perangkat tersambung, muncul Gangguan internet sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Gangguan layanan ISP,"Selama bekerja, pengguna menemui Gangguan layanan ISP dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Hotspot tidak berfungsi,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Hotspot tidak berfungsi dan proses tidak dapat diselesaikan."
+Jaringan,IP duplikat terdeteksi,Pengguna mengalami IP duplikat terdeteksi; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: ACL memblokir lalu lintas,Pengguna melaporkan Jaringan: ACL memblokir lalu lintas; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: ARP poisoning,Pengguna mengalami gangguan berupa Jaringan: ARP poisoning; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: DDoS terdeteksi,Pengguna melaporkan bahwa Jaringan: DDoS terdeteksi muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: DNS cache poisoning,Tiket dibuat karena Jaringan: DNS cache poisoning terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: EIGRP salah konfigurasi,Kendala Jaringan: EIGRP salah konfigurasi terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: IPv6 salah konfigurasi,Permintaan dukungan dibuat setelah Jaringan: IPv6 salah konfigurasi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: MPLS salah konfigurasi,"Saat perangkat tersambung, muncul Jaringan: MPLS salah konfigurasi sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: NAT salah konfigurasi,"Selama bekerja, pengguna menemui Jaringan: NAT salah konfigurasi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: OSPF salah konfigurasi,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: OSPF salah konfigurasi dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: PAT salah konfigurasi,Pengguna mengalami Jaringan: PAT salah konfigurasi; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: RIP salah konfigurasi,Pengguna melaporkan Jaringan: RIP salah konfigurasi; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: SNMP salah konfigurasi,Pengguna mengalami gangguan berupa Jaringan: SNMP salah konfigurasi; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: VLAN salah konfigurasi,Pengguna melaporkan bahwa Jaringan: VLAN salah konfigurasi muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: adapter dinonaktifkan,Tiket dibuat karena Jaringan: adapter dinonaktifkan terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: akses tidak sah,Kendala Jaringan: akses tidak sah terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: banjir peringatan,Permintaan dukungan dibuat setelah Jaringan: banjir peringatan menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: blackhole routing,"Saat perangkat tersambung, muncul Jaringan: blackhole routing sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: default gateway tidak tersedia,"Selama bekerja, pengguna menemui Jaringan: default gateway tidak tersedia dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: driver sudah usang,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: driver sudah usang dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: firewall kelebihan beban,Pengguna mengalami Jaringan: firewall kelebihan beban; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: jitter,Pengguna melaporkan Jaringan: jitter; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: kabel rusak,Pengguna mengalami gangguan berupa Jaringan: kabel rusak; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: kecepatan lambat,Pengguna melaporkan bahwa Jaringan: kecepatan lambat muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: kegagalan SSL VPN,Tiket dibuat karena Jaringan: kegagalan SSL VPN terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: kegagalan alat pemantauan,Kendala Jaringan: kegagalan alat pemantauan terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: kegagalan autentikasi,Permintaan dukungan dibuat setelah Jaringan: kegagalan autentikasi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: kegagalan bridge,"Saat perangkat tersambung, muncul Jaringan: kegagalan bridge sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: kegagalan hub,"Selama bekerja, pengguna menemui Jaringan: kegagalan hub dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: kegagalan repeater,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: kegagalan repeater dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: kegagalan tunnel GRE,Pengguna mengalami Jaringan: kegagalan tunnel GRE; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: kegagalan tunnel IPsec,Pengguna melaporkan Jaringan: kegagalan tunnel IPsec; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: kemacetan jaringan,Pengguna mengalami gangguan berupa Jaringan: kemacetan jaringan; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: kesalahan dual-stack,Pengguna melaporkan bahwa Jaringan: kesalahan dual-stack muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: kesalahan pengalamatan IP,Tiket dibuat karena Jaringan: kesalahan pengalamatan IP terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: kesalahan rute statis,Kendala Jaringan: kesalahan rute statis terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: kesalahan segmentasi,Permintaan dukungan dibuat setelah Jaringan: kesalahan segmentasi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: kesalahan split horizon,"Saat perangkat tersambung, muncul Jaringan: kesalahan split horizon sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: kesalahan subnet mask,"Selama bekerja, pengguna menemui Jaringan: kesalahan subnet mask dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: kesalahan tunneling,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: kesalahan tunneling dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: ketidaksesuaian MTU,Pengguna mengalami Jaringan: ketidaksesuaian MTU; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: ketidaksesuaian duplex,Pengguna melaporkan Jaringan: ketidaksesuaian duplex; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: lalu lintas salah rute,Pengguna mengalami gangguan berupa Jaringan: lalu lintas salah rute; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: loop terdeteksi,Pengguna melaporkan bahwa Jaringan: loop terdeteksi muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: packet sniffing terdeteksi,Tiket dibuat karena Jaringan: packet sniffing terdeteksi terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: pelanggaran kebijakan,Kendala Jaringan: pelanggaran kebijakan terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: pelanggaran kepatuhan,Permintaan dukungan dibuat setelah Jaringan: pelanggaran kepatuhan menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: pemindaian port terdeteksi,"Saat perangkat tersambung, muncul Jaringan: pemindaian port terdeteksi sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: perangkat tidak sah terdeteksi,"Selama bekerja, pengguna menemui Jaringan: perangkat tidak sah terdeteksi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: percobaan spoofing,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: percobaan spoofing dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: pergeseran konfigurasi,Pengguna mengalami Jaringan: pergeseran konfigurasi; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: peringatan IDS,Pengguna melaporkan Jaringan: peringatan IDS; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: peringatan IPS,Pengguna mengalami gangguan berupa Jaringan: peringatan IPS; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: routing asimetris,Pengguna melaporkan bahwa Jaringan: routing asimetris muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: server DHCP tidak aktif,Tiket dibuat karena Jaringan: server DHCP tidak aktif terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: server DNS tidak aktif,Kendala Jaringan: server DNS tidak aktif terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: server NTP tidak dapat dijangkau,Permintaan dukungan dibuat setelah Jaringan: server NTP tidak dapat dijangkau menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: server syslog tidak aktif,"Saat perangkat tersambung, muncul Jaringan: server syslog tidak aktif sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: tabrakan jaringan terdeteksi,"Selama bekerja, pengguna menemui Jaringan: tabrakan jaringan terdeteksi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Kabel terlepas,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Kabel terlepas dan proses tidak dapat diselesaikan."
+Jaringan,Kegagalan DHCP,Pengguna mengalami Kegagalan DHCP; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Kegagalan koneksi VPN,Pengguna melaporkan Kegagalan koneksi VPN; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Kegagalan port switch,Pengguna mengalami gangguan berupa Kegagalan port switch; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Kehilangan paket terdeteksi,Pengguna melaporkan bahwa Kehilangan paket terdeteksi muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Kekuatan sinyal lemah,Tiket dibuat karena Kekuatan sinyal lemah terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Kesalahan NAT firewall,Kendala Kesalahan NAT firewall terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Kesalahan autentikasi proxy,Permintaan dukungan dibuat setelah Kesalahan autentikasi proxy menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Kesalahan konfigurasi BGP,"Saat perangkat tersambung, muncul Kesalahan konfigurasi BGP sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Kesalahan konfigurasi server proxy,"Selama bekerja, pengguna menemui Kesalahan konfigurasi server proxy dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Kesalahan mode bridge,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Kesalahan mode bridge dan proses tidak dapat diselesaikan."
+Jaringan,Koneksi nirkabel tidak stabil,Pengguna mengalami Koneksi nirkabel tidak stabil; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Konflik ARP,Pengguna melaporkan Konflik ARP; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Konflik IP,Pengguna mengalami gangguan berupa Konflik IP; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Layanan cloud tidak dapat dijangkau,Pengguna melaporkan bahwa Layanan cloud tidak dapat dijangkau muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Load balancer salah konfigurasi,Tiket dibuat karena Load balancer salah konfigurasi terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Lonjakan latensi,Kendala Lonjakan latensi terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Loop routing,Permintaan dukungan dibuat setelah Loop routing menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Masalah captive portal,"Saat perangkat tersambung, muncul Masalah captive portal sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Masalah konektivitas Wi-Fi,"Selama bekerja, pengguna menemui Masalah konektivitas Wi-Fi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Masalah resolusi DNS,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Masalah resolusi DNS dan proses tidak dapat diselesaikan."
+Jaringan,Panggilan VoIP terputus,Pengguna mengalami Panggilan VoIP terputus; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Port Ethernet dinonaktifkan,Pengguna melaporkan Port Ethernet dinonaktifkan; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Port diblokir,Pengguna mengalami gangguan berupa Port diblokir; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,QoS salah konfigurasi,Pengguna melaporkan bahwa QoS salah konfigurasi muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Router perlu di-reboot,Tiket dibuat karena Router perlu di-reboot terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,SSID tidak terlihat,Kendala SSID tidak terlihat terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Sertifikat VPN kedaluwarsa,Permintaan dukungan dibuat setelah Sertifikat VPN kedaluwarsa menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Switch terlalu panas,"Saat perangkat tersambung, muncul Switch terlalu panas sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Access point salah konfigurasi,"Selama bekerja, pengguna menemui Access point salah konfigurasi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Access point tidak aktif,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Access point tidak aktif dan proses tidak dapat diselesaikan."
+Jaringan,Bandwidth terlampaui,Pengguna mengalami Bandwidth terlampaui; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Batas waktu gateway habis,Pengguna melaporkan Batas waktu gateway habis; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Broadcast storm,Pengguna mengalami gangguan berupa Broadcast storm; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Firewall memblokir akses,Pengguna melaporkan bahwa Firewall memblokir akses muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Firmware router sudah usang,Tiket dibuat karena Firmware router sudah usang terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Gangguan internet,Kendala Gangguan internet terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Gangguan layanan ISP,Permintaan dukungan dibuat setelah Gangguan layanan ISP menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Hotspot tidak berfungsi,"Saat perangkat tersambung, muncul Hotspot tidak berfungsi sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,IP duplikat terdeteksi,"Selama bekerja, pengguna menemui IP duplikat terdeteksi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: ACL memblokir lalu lintas,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: ACL memblokir lalu lintas dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: ARP poisoning,Pengguna mengalami Jaringan: ARP poisoning; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: DDoS terdeteksi,Pengguna melaporkan Jaringan: DDoS terdeteksi; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: DNS cache poisoning,Pengguna mengalami gangguan berupa Jaringan: DNS cache poisoning; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: EIGRP salah konfigurasi,Pengguna melaporkan bahwa Jaringan: EIGRP salah konfigurasi muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: IPv6 salah konfigurasi,Tiket dibuat karena Jaringan: IPv6 salah konfigurasi terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: MPLS salah konfigurasi,Kendala Jaringan: MPLS salah konfigurasi terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: NAT salah konfigurasi,Permintaan dukungan dibuat setelah Jaringan: NAT salah konfigurasi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: OSPF salah konfigurasi,"Saat perangkat tersambung, muncul Jaringan: OSPF salah konfigurasi sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: PAT salah konfigurasi,"Selama bekerja, pengguna menemui Jaringan: PAT salah konfigurasi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: RIP salah konfigurasi,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: RIP salah konfigurasi dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: SNMP salah konfigurasi,Pengguna mengalami Jaringan: SNMP salah konfigurasi; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: VLAN salah konfigurasi,Pengguna melaporkan Jaringan: VLAN salah konfigurasi; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: adapter dinonaktifkan,Pengguna mengalami gangguan berupa Jaringan: adapter dinonaktifkan; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: akses tidak sah,Pengguna melaporkan bahwa Jaringan: akses tidak sah muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: banjir peringatan,Tiket dibuat karena Jaringan: banjir peringatan terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: blackhole routing,Kendala Jaringan: blackhole routing terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: default gateway tidak tersedia,Permintaan dukungan dibuat setelah Jaringan: default gateway tidak tersedia menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: driver sudah usang,"Saat perangkat tersambung, muncul Jaringan: driver sudah usang sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: firewall kelebihan beban,"Selama bekerja, pengguna menemui Jaringan: firewall kelebihan beban dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: jitter,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: jitter dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: kabel rusak,Pengguna mengalami Jaringan: kabel rusak; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: kecepatan lambat,Pengguna melaporkan Jaringan: kecepatan lambat; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: kegagalan SSL VPN,Pengguna mengalami gangguan berupa Jaringan: kegagalan SSL VPN; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: kegagalan alat pemantauan,Pengguna melaporkan bahwa Jaringan: kegagalan alat pemantauan muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: kegagalan autentikasi,Tiket dibuat karena Jaringan: kegagalan autentikasi terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: kegagalan bridge,Kendala Jaringan: kegagalan bridge terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: kegagalan hub,Permintaan dukungan dibuat setelah Jaringan: kegagalan hub menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: kegagalan repeater,"Saat perangkat tersambung, muncul Jaringan: kegagalan repeater sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: kegagalan tunnel GRE,"Selama bekerja, pengguna menemui Jaringan: kegagalan tunnel GRE dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: kegagalan tunnel IPsec,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: kegagalan tunnel IPsec dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: kemacetan jaringan,Pengguna mengalami Jaringan: kemacetan jaringan; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: kesalahan dual-stack,Pengguna melaporkan Jaringan: kesalahan dual-stack; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: kesalahan pengalamatan IP,Pengguna mengalami gangguan berupa Jaringan: kesalahan pengalamatan IP; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: kesalahan rute statis,Pengguna melaporkan bahwa Jaringan: kesalahan rute statis muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: kesalahan segmentasi,Tiket dibuat karena Jaringan: kesalahan segmentasi terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: kesalahan split horizon,Kendala Jaringan: kesalahan split horizon terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: kesalahan subnet mask,Permintaan dukungan dibuat setelah Jaringan: kesalahan subnet mask menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: kesalahan tunneling,"Saat perangkat tersambung, muncul Jaringan: kesalahan tunneling sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: ketidaksesuaian MTU,"Selama bekerja, pengguna menemui Jaringan: ketidaksesuaian MTU dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: ketidaksesuaian duplex,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: ketidaksesuaian duplex dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: lalu lintas salah rute,Pengguna mengalami Jaringan: lalu lintas salah rute; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: loop terdeteksi,Pengguna melaporkan Jaringan: loop terdeteksi; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: packet sniffing terdeteksi,Pengguna mengalami gangguan berupa Jaringan: packet sniffing terdeteksi; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: pelanggaran kebijakan,Pengguna melaporkan bahwa Jaringan: pelanggaran kebijakan muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: pelanggaran kepatuhan,Tiket dibuat karena Jaringan: pelanggaran kepatuhan terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: pemindaian port terdeteksi,Kendala Jaringan: pemindaian port terdeteksi terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: perangkat tidak sah terdeteksi,Permintaan dukungan dibuat setelah Jaringan: perangkat tidak sah terdeteksi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Jaringan: percobaan spoofing,"Saat perangkat tersambung, muncul Jaringan: percobaan spoofing sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Jaringan: pergeseran konfigurasi,"Selama bekerja, pengguna menemui Jaringan: pergeseran konfigurasi dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Jaringan: peringatan IDS,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Jaringan: peringatan IDS dan proses tidak dapat diselesaikan."
+Jaringan,Jaringan: peringatan IPS,Pengguna mengalami Jaringan: peringatan IPS; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Jaringan: routing asimetris,Pengguna melaporkan Jaringan: routing asimetris; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Jaringan: server DHCP tidak aktif,Pengguna mengalami gangguan berupa Jaringan: server DHCP tidak aktif; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Jaringan: server DNS tidak aktif,Pengguna melaporkan bahwa Jaringan: server DNS tidak aktif muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Jaringan: server NTP tidak dapat dijangkau,Tiket dibuat karena Jaringan: server NTP tidak dapat dijangkau terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Jaringan: server syslog tidak aktif,Kendala Jaringan: server syslog tidak aktif terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Jaringan: tabrakan jaringan terdeteksi,Permintaan dukungan dibuat setelah Jaringan: tabrakan jaringan terdeteksi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Kabel terlepas,"Saat perangkat tersambung, muncul Kabel terlepas sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Kegagalan DHCP,"Selama bekerja, pengguna menemui Kegagalan DHCP dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Kegagalan koneksi VPN,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Kegagalan koneksi VPN dan proses tidak dapat diselesaikan."
+Jaringan,Kegagalan port switch,Pengguna mengalami Kegagalan port switch; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Kehilangan paket terdeteksi,Pengguna melaporkan Kehilangan paket terdeteksi; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Kekuatan sinyal lemah,Pengguna mengalami gangguan berupa Kekuatan sinyal lemah; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Kesalahan NAT firewall,Pengguna melaporkan bahwa Kesalahan NAT firewall muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Kesalahan autentikasi proxy,Tiket dibuat karena Kesalahan autentikasi proxy terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Kesalahan konfigurasi BGP,Kendala Kesalahan konfigurasi BGP terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Kesalahan konfigurasi server proxy,Permintaan dukungan dibuat setelah Kesalahan konfigurasi server proxy menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Kesalahan mode bridge,"Saat perangkat tersambung, muncul Kesalahan mode bridge sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Koneksi nirkabel tidak stabil,"Selama bekerja, pengguna menemui Koneksi nirkabel tidak stabil dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Konflik ARP,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Konflik ARP dan proses tidak dapat diselesaikan."
+Jaringan,Konflik IP,Pengguna mengalami Konflik IP; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Layanan cloud tidak dapat dijangkau,Pengguna melaporkan Layanan cloud tidak dapat dijangkau; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Load balancer salah konfigurasi,Pengguna mengalami gangguan berupa Load balancer salah konfigurasi; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,Lonjakan latensi,Pengguna melaporkan bahwa Lonjakan latensi muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Loop routing,Tiket dibuat karena Loop routing terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Masalah captive portal,Kendala Masalah captive portal terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Masalah konektivitas Wi-Fi,Permintaan dukungan dibuat setelah Masalah konektivitas Wi-Fi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Masalah resolusi DNS,"Saat perangkat tersambung, muncul Masalah resolusi DNS sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Panggilan VoIP terputus,"Selama bekerja, pengguna menemui Panggilan VoIP terputus dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Port Ethernet dinonaktifkan,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Port Ethernet dinonaktifkan dan proses tidak dapat diselesaikan."
+Jaringan,Port diblokir,Pengguna mengalami Port diblokir; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,QoS salah konfigurasi,Pengguna melaporkan QoS salah konfigurasi; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Jaringan,Router perlu di-reboot,Pengguna mengalami gangguan berupa Router perlu di-reboot; konektivitas tetap bermasalah setelah perangkat mencoba tersambung kembali.
+Jaringan,SSID tidak terlihat,Pengguna melaporkan bahwa SSID tidak terlihat muncul berulang dan menghambat penggunaan layanan yang bergantung pada koneksi.
+Jaringan,Sertifikat VPN kedaluwarsa,Tiket dibuat karena Sertifikat VPN kedaluwarsa terjadi ketika pengguna mencoba mengakses layanan melalui koneksi yang tersedia.
+Jaringan,Switch terlalu panas,Kendala Switch terlalu panas terdeteksi pada saat perangkat digunakan untuk terhubung ke layanan perusahaan.
+Jaringan,Access point salah konfigurasi,Permintaan dukungan dibuat setelah Access point salah konfigurasi menyebabkan komunikasi antarperangkat atau layanan tidak berjalan seperti biasa.
+Jaringan,Access point tidak aktif,"Saat perangkat tersambung, muncul Access point tidak aktif sehingga komunikasi ke layanan internal tidak berjalan normal."
+Jaringan,Bandwidth terlampaui,"Selama bekerja, pengguna menemui Bandwidth terlampaui dan akses ke sumber daya daring menjadi lambat atau terputus."
+Jaringan,Batas waktu gateway habis,"Saat membuka layanan yang membutuhkan koneksi, pengguna mendapati Batas waktu gateway habis dan proses tidak dapat diselesaikan."
+Jaringan,Broadcast storm,Pengguna mengalami Broadcast storm; koneksi ke layanan yang diperlukan menjadi tidak stabil selama aktivitas kerja.
+Jaringan,Firewall memblokir akses,Pengguna melaporkan Firewall memblokir akses; sambungan sempat pulih setelah dicoba ulang tetapi gangguan kembali terjadi.
+Keamanan,ARP spoofing mencurigakan,Sistem mendeteksi indikasi ARP spoofing mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Akses USB tidak sah,Tiket dibuat karena ditemukan Akses USB tidak sah pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Aktivitas VM mencurigakan,Kejadian Aktivitas VM mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Aktivitas administrator mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Aktivitas administrator mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Aktivitas botnet,Peringatan tercatat setelah teridentifikasi Aktivitas botnet; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Aktivitas container mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Aktivitas container mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Aktivitas hypervisor mencurigakan,Indikasi Aktivitas hypervisor mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Aktivitas kernel mencurigakan,Pengguna melaporkan adanya Aktivitas kernel mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Aktivitas mencurigakan terdeteksi,"Saat pemantauan berlangsung, sistem menemukan Aktivitas mencurigakan terdeteksi; sumber aktivitas belum dapat dipastikan."
+Keamanan,Aktivitas orang dalam mencurigakan,Sistem memberikan peringatan terkait Aktivitas orang dalam mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Backdoor mencurigakan terdeteksi,Sistem mendeteksi indikasi Backdoor mencurigakan terdeteksi; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Basis data terekspos,Tiket dibuat karena ditemukan Basis data terekspos pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Cross-site scripting terdeteksi,Kejadian Cross-site scripting terdeteksi terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,DNS poisoning mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat DNS poisoning mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Dump memori mencurigakan,Peringatan tercatat setelah teridentifikasi Dump memori mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Eksekusi proses mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Eksekusi proses mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Eksfiltrasi data mencurigakan terdeteksi,Indikasi Eksfiltrasi data mencurigakan terdeteksi muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Eksploit zero-day,Pengguna melaporkan adanya Eksploit zero-day; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Endpoint tidak memenuhi kepatuhan,"Saat pemantauan berlangsung, sistem menemukan Endpoint tidak memenuhi kepatuhan; sumber aktivitas belum dapat dipastikan."
+Keamanan,IP spoofing mencurigakan,Sistem memberikan peringatan terkait IP spoofing mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Infeksi ransomware,Sistem mendeteksi indikasi Infeksi ransomware; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Infeksi spyware,Tiket dibuat karena ditemukan Infeksi spyware pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Injeksi DLL mencurigakan,Kejadian Injeksi DLL mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Injeksi paket mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Injeksi paket mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Insiden kebocoran data,Peringatan tercatat setelah teridentifikasi Insiden kebocoran data; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Instalasi driver mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Instalasi driver mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Kata sandi lemah terdeteksi,Indikasi Kata sandi lemah terdeteksi muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Kerentanan yang belum ditambal,Pengguna melaporkan adanya Kerentanan yang belum ditambal; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Kesalahan konfigurasi cloud,"Saat pemantauan berlangsung, sistem menemukan Kesalahan konfigurasi cloud; sumber aktivitas belum dapat dipastikan."
+Keamanan,Keylogger terdeteksi,Sistem memberikan peringatan terkait Keylogger terdeteksi; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Kompromi kontraktor mencurigakan,Sistem mendeteksi indikasi Kompromi kontraktor mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Kompromi mitra mencurigakan,Tiket dibuat karena ditemukan Kompromi mitra mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Kompromi pihak ketiga mencurigakan,Kejadian Kompromi pihak ketiga mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Kompromi vendor mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Kompromi vendor mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Kredensial telah dikompromikan,Peringatan tercatat setelah teridentifikasi Kredensial telah dikompromikan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Lalu lintas beaconing mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Lalu lintas beaconing mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Lalu lintas keluar mencurigakan,Indikasi Lalu lintas keluar mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Lampiran email mencurigakan,Pengguna melaporkan adanya Lampiran email mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Login SaaS mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Login SaaS mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Login cloud mencurigakan,Sistem memberikan peringatan terkait Login cloud mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Lokasi login mencurigakan,Sistem mendeteksi indikasi Lokasi login mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,MAC spoofing mencurigakan,Tiket dibuat karena ditemukan MAC spoofing mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Makro berbahaya terdeteksi,Kejadian Makro berbahaya terdeteksi terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Manipulasi log audit mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Manipulasi log audit mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Patch keamanan tidak tersedia,Peringatan tercatat setelah teridentifikasi Patch keamanan tidak tersedia; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Pelanggaran CIS mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Pelanggaran CIS mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Pelanggaran GDPR mencurigakan,Indikasi Pelanggaran GDPR mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Pelanggaran HIPAA mencurigakan,Pengguna melaporkan adanya Pelanggaran HIPAA mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Pelanggaran ISO mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Pelanggaran ISO mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Pelanggaran NIST mencurigakan,Sistem memberikan peringatan terkait Pelanggaran NIST mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Pelanggaran PCI mencurigakan,Sistem mendeteksi indikasi Pelanggaran PCI mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Pelanggaran SOX mencurigakan,Tiket dibuat karena ditemukan Pelanggaran SOX mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Pelanggaran kebijakan khusus mencurigakan,Kejadian Pelanggaran kebijakan khusus mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Pelanggaran kebijakan mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Pelanggaran kebijakan mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Pelanggaran kepatuhan mencurigakan,Peringatan tercatat setelah teridentifikasi Pelanggaran kepatuhan mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Pemalsuan email terdeteksi,Pengguna meminta pemeriksaan setelah muncul indikasi Pemalsuan email terdeteksi yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Pemanggilan API tidak sah,Indikasi Pemanggilan API tidak sah muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Pembajakan DNS mencurigakan,Pengguna melaporkan adanya Pembajakan DNS mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Pembajakan sesi mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Pembajakan sesi mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Pemindaian jaringan mencurigakan,Sistem memberikan peringatan terkait Pemindaian jaringan mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Pencurian cookie mencurigakan,Sistem mendeteksi indikasi Pencurian cookie mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Penggunaan token API mencurigakan,Tiket dibuat karena ditemukan Penggunaan token API mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Penggunaan token JWT mencurigakan,Kejadian Penggunaan token JWT mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Penggunaan token OAuth mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Penggunaan token OAuth mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Penyalahgunaan hak akses mencurigakan,Peringatan tercatat setelah teridentifikasi Penyalahgunaan hak akses mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Perangkat USB diblokir,Pengguna meminta pemeriksaan setelah muncul indikasi Perangkat USB diblokir yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Percobaan SQL injection,Indikasi Percobaan SQL injection muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Percobaan akses tidak sah,Pengguna melaporkan adanya Percobaan akses tidak sah; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Percobaan eskalasi hak akses,"Saat pemantauan berlangsung, sistem menemukan Percobaan eskalasi hak akses; sumber aktivitas belum dapat dipastikan."
+Keamanan,Percobaan login brute force,Sistem memberikan peringatan terkait Percobaan login brute force; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Percobaan phishing dilaporkan,Sistem mendeteksi indikasi Percobaan phishing dilaporkan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Peringatan ICS mencurigakan,Tiket dibuat karena ditemukan Peringatan ICS mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Peringatan SCADA mencurigakan,Kejadian Peringatan SCADA mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Peringatan SIEM mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Peringatan SIEM mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Peringatan SOC mencurigakan,Peringatan tercatat setelah teridentifikasi Peringatan SOC mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Peringatan endpoint mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Peringatan endpoint mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Peringatan intrusi firewall,Indikasi Peringatan intrusi firewall muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Peringatan malware,Pengguna melaporkan adanya Peringatan malware; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Peringatan perangkat IoT mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Peringatan perangkat IoT mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Peringatan perangkat OT mencurigakan,Sistem memberikan peringatan terkait Peringatan perangkat OT mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Peringatan perangkat seluler mencurigakan,Sistem mendeteksi indikasi Peringatan perangkat seluler mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Perubahan registry mencurigakan,Tiket dibuat karena ditemukan Perubahan registry mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Port knocking mencurigakan,Kejadian Port knocking mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,RAT mencurigakan terdeteksi,Permintaan dukungan dibuat setelah sistem mencatat RAT mencurigakan terdeteksi; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Rootkit ditemukan,Peringatan tercatat setelah teridentifikasi Rootkit ditemukan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Serangan DDoS terdeteksi,Pengguna meminta pemeriksaan setelah muncul indikasi Serangan DDoS terdeteksi yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Serangan man-in-the-middle mencurigakan,Indikasi Serangan man-in-the-middle mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Serangan rantai pasok mencurigakan,Pengguna melaporkan adanya Serangan rantai pasok mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Serangan replay mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Serangan replay mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Sertifikat kedaluwarsa,Sistem memberikan peringatan terkait Sertifikat kedaluwarsa; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Server C2 mencurigakan terdeteksi,Sistem mendeteksi indikasi Server C2 mencurigakan terdeteksi; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Shadow IT mencurigakan terdeteksi,Tiket dibuat karena ditemukan Shadow IT mencurigakan terdeteksi pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Situs phishing diblokir,Kejadian Situs phishing diblokir terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Skrip PowerShell mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Skrip PowerShell mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Startup layanan mencurigakan,Peringatan tercatat setelah teridentifikasi Startup layanan mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Trojan terdeteksi,Pengguna meminta pemeriksaan setelah muncul indikasi Trojan terdeteksi yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Tugas terjadwal mencurigakan,Indikasi Tugas terjadwal mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Tunneling lalu lintas mencurigakan,Pengguna melaporkan adanya Tunneling lalu lintas mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Unduhan file mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Unduhan file mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,ARP spoofing mencurigakan,"Saat pemantauan berlangsung, sistem menemukan ARP spoofing mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Akses USB tidak sah,Sistem memberikan peringatan terkait Akses USB tidak sah; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Aktivitas VM mencurigakan,Sistem mendeteksi indikasi Aktivitas VM mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Aktivitas administrator mencurigakan,Tiket dibuat karena ditemukan Aktivitas administrator mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Aktivitas botnet,Kejadian Aktivitas botnet terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Aktivitas container mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Aktivitas container mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Aktivitas hypervisor mencurigakan,Peringatan tercatat setelah teridentifikasi Aktivitas hypervisor mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Aktivitas kernel mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Aktivitas kernel mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Aktivitas mencurigakan terdeteksi,Indikasi Aktivitas mencurigakan terdeteksi muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Aktivitas orang dalam mencurigakan,Pengguna melaporkan adanya Aktivitas orang dalam mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Backdoor mencurigakan terdeteksi,"Saat pemantauan berlangsung, sistem menemukan Backdoor mencurigakan terdeteksi; sumber aktivitas belum dapat dipastikan."
+Keamanan,Basis data terekspos,Sistem memberikan peringatan terkait Basis data terekspos; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Cross-site scripting terdeteksi,Sistem mendeteksi indikasi Cross-site scripting terdeteksi; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,DNS poisoning mencurigakan,Tiket dibuat karena ditemukan DNS poisoning mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Dump memori mencurigakan,Kejadian Dump memori mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Eksekusi proses mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Eksekusi proses mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Eksfiltrasi data mencurigakan terdeteksi,Peringatan tercatat setelah teridentifikasi Eksfiltrasi data mencurigakan terdeteksi; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Eksploit zero-day,Pengguna meminta pemeriksaan setelah muncul indikasi Eksploit zero-day yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Endpoint tidak memenuhi kepatuhan,Indikasi Endpoint tidak memenuhi kepatuhan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,IP spoofing mencurigakan,Pengguna melaporkan adanya IP spoofing mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Infeksi ransomware,"Saat pemantauan berlangsung, sistem menemukan Infeksi ransomware; sumber aktivitas belum dapat dipastikan."
+Keamanan,Infeksi spyware,Sistem memberikan peringatan terkait Infeksi spyware; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Injeksi DLL mencurigakan,Sistem mendeteksi indikasi Injeksi DLL mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Injeksi paket mencurigakan,Tiket dibuat karena ditemukan Injeksi paket mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Insiden kebocoran data,Kejadian Insiden kebocoran data terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Instalasi driver mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Instalasi driver mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Kata sandi lemah terdeteksi,Peringatan tercatat setelah teridentifikasi Kata sandi lemah terdeteksi; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Kerentanan yang belum ditambal,Pengguna meminta pemeriksaan setelah muncul indikasi Kerentanan yang belum ditambal yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Kesalahan konfigurasi cloud,Indikasi Kesalahan konfigurasi cloud muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Keylogger terdeteksi,Pengguna melaporkan adanya Keylogger terdeteksi; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Kompromi kontraktor mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Kompromi kontraktor mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Kompromi mitra mencurigakan,Sistem memberikan peringatan terkait Kompromi mitra mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Kompromi pihak ketiga mencurigakan,Sistem mendeteksi indikasi Kompromi pihak ketiga mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Kompromi vendor mencurigakan,Tiket dibuat karena ditemukan Kompromi vendor mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Kredensial telah dikompromikan,Kejadian Kredensial telah dikompromikan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Lalu lintas beaconing mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Lalu lintas beaconing mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Lalu lintas keluar mencurigakan,Peringatan tercatat setelah teridentifikasi Lalu lintas keluar mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Lampiran email mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Lampiran email mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Login SaaS mencurigakan,Indikasi Login SaaS mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Login cloud mencurigakan,Pengguna melaporkan adanya Login cloud mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Lokasi login mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Lokasi login mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,MAC spoofing mencurigakan,Sistem memberikan peringatan terkait MAC spoofing mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Makro berbahaya terdeteksi,Sistem mendeteksi indikasi Makro berbahaya terdeteksi; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Manipulasi log audit mencurigakan,Tiket dibuat karena ditemukan Manipulasi log audit mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Patch keamanan tidak tersedia,Kejadian Patch keamanan tidak tersedia terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Pelanggaran CIS mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Pelanggaran CIS mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Pelanggaran GDPR mencurigakan,Peringatan tercatat setelah teridentifikasi Pelanggaran GDPR mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Pelanggaran HIPAA mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Pelanggaran HIPAA mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Pelanggaran ISO mencurigakan,Indikasi Pelanggaran ISO mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Pelanggaran NIST mencurigakan,Pengguna melaporkan adanya Pelanggaran NIST mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Pelanggaran PCI mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Pelanggaran PCI mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Pelanggaran SOX mencurigakan,Sistem memberikan peringatan terkait Pelanggaran SOX mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Pelanggaran kebijakan khusus mencurigakan,Sistem mendeteksi indikasi Pelanggaran kebijakan khusus mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Pelanggaran kebijakan mencurigakan,Tiket dibuat karena ditemukan Pelanggaran kebijakan mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Pelanggaran kepatuhan mencurigakan,Kejadian Pelanggaran kepatuhan mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Pemalsuan email terdeteksi,Permintaan dukungan dibuat setelah sistem mencatat Pemalsuan email terdeteksi; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Pemanggilan API tidak sah,Peringatan tercatat setelah teridentifikasi Pemanggilan API tidak sah; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Pembajakan DNS mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Pembajakan DNS mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Pembajakan sesi mencurigakan,Indikasi Pembajakan sesi mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Pemindaian jaringan mencurigakan,Pengguna melaporkan adanya Pemindaian jaringan mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Pencurian cookie mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Pencurian cookie mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Penggunaan token API mencurigakan,Sistem memberikan peringatan terkait Penggunaan token API mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Penggunaan token JWT mencurigakan,Sistem mendeteksi indikasi Penggunaan token JWT mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Penggunaan token OAuth mencurigakan,Tiket dibuat karena ditemukan Penggunaan token OAuth mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Penyalahgunaan hak akses mencurigakan,Kejadian Penyalahgunaan hak akses mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Perangkat USB diblokir,Permintaan dukungan dibuat setelah sistem mencatat Perangkat USB diblokir; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Percobaan SQL injection,Peringatan tercatat setelah teridentifikasi Percobaan SQL injection; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Percobaan akses tidak sah,Pengguna meminta pemeriksaan setelah muncul indikasi Percobaan akses tidak sah yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Percobaan eskalasi hak akses,Indikasi Percobaan eskalasi hak akses muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Percobaan login brute force,Pengguna melaporkan adanya Percobaan login brute force; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Percobaan phishing dilaporkan,"Saat pemantauan berlangsung, sistem menemukan Percobaan phishing dilaporkan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Peringatan ICS mencurigakan,Sistem memberikan peringatan terkait Peringatan ICS mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Peringatan SCADA mencurigakan,Sistem mendeteksi indikasi Peringatan SCADA mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Peringatan SIEM mencurigakan,Tiket dibuat karena ditemukan Peringatan SIEM mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Peringatan SOC mencurigakan,Kejadian Peringatan SOC mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Peringatan endpoint mencurigakan,Permintaan dukungan dibuat setelah sistem mencatat Peringatan endpoint mencurigakan; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Peringatan intrusi firewall,Peringatan tercatat setelah teridentifikasi Peringatan intrusi firewall; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Peringatan malware,Pengguna meminta pemeriksaan setelah muncul indikasi Peringatan malware yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Peringatan perangkat IoT mencurigakan,Indikasi Peringatan perangkat IoT mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Peringatan perangkat OT mencurigakan,Pengguna melaporkan adanya Peringatan perangkat OT mencurigakan; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Peringatan perangkat seluler mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Peringatan perangkat seluler mencurigakan; sumber aktivitas belum dapat dipastikan."
+Keamanan,Perubahan registry mencurigakan,Sistem memberikan peringatan terkait Perubahan registry mencurigakan; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Port knocking mencurigakan,Sistem mendeteksi indikasi Port knocking mencurigakan; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,RAT mencurigakan terdeteksi,Tiket dibuat karena ditemukan RAT mencurigakan terdeteksi pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Rootkit ditemukan,Kejadian Rootkit ditemukan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Serangan DDoS terdeteksi,Permintaan dukungan dibuat setelah sistem mencatat Serangan DDoS terdeteksi; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Serangan man-in-the-middle mencurigakan,Peringatan tercatat setelah teridentifikasi Serangan man-in-the-middle mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Serangan rantai pasok mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Serangan rantai pasok mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Serangan replay mencurigakan,Indikasi Serangan replay mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Sertifikat kedaluwarsa,Pengguna melaporkan adanya Sertifikat kedaluwarsa; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Server C2 mencurigakan terdeteksi,"Saat pemantauan berlangsung, sistem menemukan Server C2 mencurigakan terdeteksi; sumber aktivitas belum dapat dipastikan."
+Keamanan,Shadow IT mencurigakan terdeteksi,Sistem memberikan peringatan terkait Shadow IT mencurigakan terdeteksi; aktivitas tersebut perlu diperiksa sebelum pengguna melanjutkan pekerjaan.
+Keamanan,Situs phishing diblokir,Sistem mendeteksi indikasi Situs phishing diblokir; aktivitas tersebut berbeda dari pola penggunaan normal dan perlu diverifikasi.
+Keamanan,Skrip PowerShell mencurigakan,Tiket dibuat karena ditemukan Skrip PowerShell mencurigakan pada lingkungan pengguna dan kejadian tersebut perlu dianalisis lebih lanjut.
+Keamanan,Startup layanan mencurigakan,Kejadian Startup layanan mencurigakan terdeteksi pada sistem; diperlukan validasi untuk memastikan tidak ada aktivitas yang tidak sah.
+Keamanan,Trojan terdeteksi,Permintaan dukungan dibuat setelah sistem mencatat Trojan terdeteksi; tim terkait perlu melakukan verifikasi terhadap kejadian tersebut.
+Keamanan,Tugas terjadwal mencurigakan,Peringatan tercatat setelah teridentifikasi Tugas terjadwal mencurigakan; aktivitas terkait perlu ditinjau sebelum dinyatakan aman.
+Keamanan,Tunneling lalu lintas mencurigakan,Pengguna meminta pemeriksaan setelah muncul indikasi Tunneling lalu lintas mencurigakan yang tidak dikenali sebagai aktivitas normal.
+Keamanan,Unduhan file mencurigakan,Indikasi Unduhan file mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,ARP spoofing mencurigakan,Indikasi ARP spoofing mencurigakan muncul pada saat layanan digunakan dan belum diketahui apakah aktivitas tersebut berasal dari proses yang sah.
+Keamanan,Akses USB tidak sah,Pengguna melaporkan adanya Akses USB tidak sah; kejadian muncul tanpa tindakan yang disengaja dan membutuhkan pemeriksaan lebih lanjut.
+Keamanan,Aktivitas VM mencurigakan,"Saat pemantauan berlangsung, sistem menemukan Aktivitas VM mencurigakan; sumber aktivitas belum dapat dipastikan."
+Perangkat Keras,BIOS laptop rusak,Pengguna mengalami BIOS laptop rusak; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Baterai laptop menggembung,Pengguna melaporkan Baterai laptop menggembung; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Baterai tidak mengisi daya,Pengguna meminta bantuan setelah mengalami Baterai tidak mengisi daya; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,CPU terlalu panas,Pengguna mendapati CPU terlalu panas; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Casing laptop retak,Tiket dibuat karena ditemukan Casing laptop retak; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Desktop tidak dapat boot,Kendala Desktop tidak dapat boot muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Docking station tidak dikenali,Permintaan dukungan dibuat karena Docking station tidak dikenali terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Drive CD/DVD tidak berfungsi,"Saat digunakan untuk bekerja, perangkat menunjukkan Drive CD/DVD tidak berfungsi sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Driver perangkat keras tidak ditemukan,"Ketika perangkat dinyalakan atau digunakan, terjadi Driver perangkat keras tidak ditemukan yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Engsel laptop longgar,"Saat menjalankan aktivitas rutin, pengguna menemukan Engsel laptop longgar dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Engsel rusak,Pengguna mengalami Engsel rusak; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,GPU eksternal tidak terdeteksi,Pengguna melaporkan GPU eksternal tidak terdeteksi; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,GPU laptop tidak terdeteksi,Pengguna meminta bantuan setelah mengalami GPU laptop tidak terdeteksi; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,GPU terlalu panas,Pengguna mendapati GPU terlalu panas; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Gangguan perangkat keras menyebabkan layar biru,Tiket dibuat karena ditemukan Gangguan perangkat keras menyebabkan layar biru; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,HDD eksternal tidak dapat dipasang,Kendala HDD eksternal tidak dapat dipasang muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Hard drive mengalami kerusakan,Permintaan dukungan dibuat karena Hard drive mengalami kerusakan terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Hub USB tidak dikenali,"Saat digunakan untuk bekerja, perangkat menunjukkan Hub USB tidak dikenali sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Hubung singkat motherboard laptop,"Ketika perangkat dinyalakan atau digunakan, terjadi Hubung singkat motherboard laptop yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Kamera laptop buram,"Saat menjalankan aktivitas rutin, pengguna menemukan Kamera laptop buram dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Kapasitor motherboard rusak,Pengguna mengalami Kapasitor motherboard rusak; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Kartu grafis terlalu panas,Pengguna melaporkan Kartu grafis terlalu panas; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Kegagalan RAM,Pengguna meminta bantuan setelah mengalami Kegagalan RAM; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Kegagalan baterai CMOS laptop,Pengguna mendapati Kegagalan baterai CMOS laptop; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Kegagalan catu daya,Tiket dibuat karena ditemukan Kegagalan catu daya; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Kegagalan kipas laptop,Kendala Kegagalan kipas laptop muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Kegagalan lampu latar keyboard laptop,Permintaan dukungan dibuat karena Kegagalan lampu latar keyboard laptop terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Kegagalan lampu proyektor,"Saat digunakan untuk bekerja, perangkat menunjukkan Kegagalan lampu proyektor sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Kegagalan motherboard,"Ketika perangkat dinyalakan atau digunakan, terjadi Kegagalan motherboard yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Kegagalan perangkat periferal,"Saat menjalankan aktivitas rutin, pengguna menemukan Kegagalan perangkat periferal dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Kegagalan slot RAM laptop,Pengguna mengalami Kegagalan slot RAM laptop; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Kegagalan speaker/audio,Pengguna melaporkan Kegagalan speaker/audio; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Kertas printer macet,Pengguna meminta bantuan setelah mengalami Kertas printer macet; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Kesalahan BIOS,Pengguna mendapati Kesalahan BIOS; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Kesalahan kartrid tinta printer,Tiket dibuat karena ditemukan Kesalahan kartrid tinta printer; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Keyboard tidak berfungsi dengan baik,Kendala Keyboard tidak berfungsi dengan baik muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Kipas laptop berisik,Permintaan dukungan dibuat karena Kipas laptop berisik terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Laptop mati karena terlalu panas,"Saat digunakan untuk bekerja, perangkat menunjukkan Laptop mati karena terlalu panas sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Laptop tidak dapat menyala,"Ketika perangkat dinyalakan atau digunakan, terjadi Laptop tidak dapat menyala yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar laptop berkedip,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar laptop berkedip dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar laptop bermasalah,Pengguna mengalami Layar laptop bermasalah; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Layar laptop berwarna jingga,Pengguna melaporkan Layar laptop berwarna jingga; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Layar laptop berwarna kebiruan,Pengguna meminta bantuan setelah mengalami Layar laptop berwarna kebiruan; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Layar laptop berwarna kehijauan,Pengguna mendapati Layar laptop berwarna kehijauan; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Layar laptop berwarna kekuningan,Tiket dibuat karena ditemukan Layar laptop berwarna kekuningan; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Layar laptop berwarna kemerahan,Kendala Layar laptop berwarna kemerahan muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Layar laptop berwarna merah muda,Permintaan dukungan dibuat karena Layar laptop berwarna merah muda terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Layar laptop berwarna ungu,"Saat digunakan untuk bekerja, perangkat menunjukkan Layar laptop berwarna ungu sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Layar laptop driver tidak tersedia,"Ketika perangkat dinyalakan atau digunakan, terjadi Layar laptop driver tidak tersedia yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar laptop engselnya rusak,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar laptop engselnya rusak dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar laptop kabelnya longgar,Pengguna mengalami Layar laptop kabelnya longgar; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Layar laptop konektornya gagal berfungsi,Pengguna melaporkan Layar laptop konektornya gagal berfungsi; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Layar laptop lampu latar gagal berfungsi,Pengguna meminta bantuan setelah mengalami Layar laptop lampu latar gagal berfungsi; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Layar laptop memiliki piksel mati,Pengguna mendapati Layar laptop memiliki piksel mati; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan bayangan gambar,Tiket dibuat karena ditemukan Layar laptop menampilkan bayangan gambar; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Layar laptop menampilkan gambar beku,Kendala Layar laptop menampilkan gambar beku muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Layar laptop menampilkan garis horizontal,Permintaan dukungan dibuat karena Layar laptop menampilkan garis horizontal terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Layar laptop menampilkan garis vertikal,"Saat digunakan untuk bekerja, perangkat menunjukkan Layar laptop menampilkan garis vertikal sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Layar laptop menampilkan garis-garis,"Ketika perangkat dinyalakan atau digunakan, terjadi Layar laptop menampilkan garis-garis yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar laptop menampilkan layar hitam,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar laptop menampilkan layar hitam dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar laptop menampilkan layar putih,Pengguna mengalami Layar laptop menampilkan layar putih; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Layar laptop menampilkan warna terbalik,Pengguna melaporkan Layar laptop menampilkan warna terbalik; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Layar laptop mengalami burn-in,Pengguna meminta bantuan setelah mengalami Layar laptop mengalami burn-in; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Layar laptop mengalami distorsi warna,Pengguna mendapati Layar laptop mengalami distorsi warna; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Layar laptop mengalami ghosting,Tiket dibuat karena ditemukan Layar laptop mengalami ghosting; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Layar laptop mengalami kesalahan resolusi,Kendala Layar laptop mengalami kesalahan resolusi muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Layar laptop mengalami masalah grayscale,Permintaan dukungan dibuat karena Layar laptop mengalami masalah grayscale terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Layar laptop mengalami masalah kecerahan,"Saat digunakan untuk bekerja, perangkat menunjukkan Layar laptop mengalami masalah kecerahan sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Layar laptop mengalami masalah refresh rate,"Ketika perangkat dinyalakan atau digunakan, terjadi Layar laptop mengalami masalah refresh rate yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar laptop redup,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar laptop redup dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar laptop retak,Pengguna mengalami Layar laptop retak; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Layar sentuh laptop tidak berfungsi,Pengguna melaporkan Layar sentuh laptop tidak berfungsi; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Layar tablet retak,Pengguna meminta bantuan setelah mengalami Layar tablet retak; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Masalah docking station,Pengguna mendapati Masalah docking station; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Masalah kalibrasi scanner,Tiket dibuat karena ditemukan Masalah kalibrasi scanner; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Masalah klik ganda mouse,Kendala Masalah klik ganda mouse muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Masalah kompatibilitas perangkat periferal,Permintaan dukungan dibuat karena Masalah kompatibilitas perangkat periferal terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Masalah mouse,"Saat digunakan untuk bekerja, perangkat menunjukkan Masalah mouse sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Masalah panas berlebih,"Ketika perangkat dinyalakan atau digunakan, terjadi Masalah panas berlebih yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Masalah pengisian daya smartphone,"Saat menjalankan aktivitas rutin, pengguna menemukan Masalah pengisian daya smartphone dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Masalah printer,Pengguna mengalami Masalah printer; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Masalah suara kipas,Pengguna melaporkan Masalah suara kipas; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Mikrofon headset tidak berfungsi,Pengguna meminta bantuan setelah mengalami Mikrofon headset tidak berfungsi; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Mikrofon laptop tidak berfungsi,Pengguna mendapati Mikrofon laptop tidak berfungsi; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Monitor berkedip,Tiket dibuat karena ditemukan Monitor berkedip; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Monitor memiliki piksel mati,Kendala Monitor memiliki piksel mati muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Port USB tidak berfungsi,Permintaan dukungan dibuat karena Port USB tidak berfungsi terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Port pengisian daya laptop longgar,"Saat digunakan untuk bekerja, perangkat menunjukkan Port pengisian daya laptop longgar sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,SSD eksternal terlalu panas,"Ketika perangkat dinyalakan atau digunakan, terjadi SSD eksternal terlalu panas yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,SSD tidak terdeteksi,"Saat menjalankan aktivitas rutin, pengguna menemukan SSD tidak terdeteksi dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Sambungan kabel longgar,Pengguna mengalami Sambungan kabel longgar; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Scanner tidak terdeteksi,Pengguna melaporkan Scanner tidak terdeteksi; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Suara speaker laptop terdistorsi,Pengguna meminta bantuan setelah mengalami Suara speaker laptop terdistorsi; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Tombol keyboard macet,Pengguna mendapati Tombol keyboard macet; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Touchpad tidak merespons,Tiket dibuat karena ditemukan Touchpad tidak merespons; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Trackpad laptop bergerak tidak stabil,Kendala Trackpad laptop bergerak tidak stabil muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Webcam tidak berfungsi dengan baik,Permintaan dukungan dibuat karena Webcam tidak berfungsi dengan baik terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,BIOS laptop rusak,"Ketika perangkat dinyalakan atau digunakan, terjadi BIOS laptop rusak yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Baterai laptop menggembung,"Saat menjalankan aktivitas rutin, pengguna menemukan Baterai laptop menggembung dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Baterai tidak mengisi daya,Pengguna mengalami Baterai tidak mengisi daya; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,CPU terlalu panas,Pengguna melaporkan CPU terlalu panas; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Casing laptop retak,Pengguna meminta bantuan setelah mengalami Casing laptop retak; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Desktop tidak dapat boot,Pengguna mendapati Desktop tidak dapat boot; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Docking station tidak dikenali,Tiket dibuat karena ditemukan Docking station tidak dikenali; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Drive CD/DVD tidak berfungsi,Kendala Drive CD/DVD tidak berfungsi muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Driver perangkat keras tidak ditemukan,Permintaan dukungan dibuat karena Driver perangkat keras tidak ditemukan terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Engsel laptop longgar,"Saat digunakan untuk bekerja, perangkat menunjukkan Engsel laptop longgar sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Engsel rusak,"Ketika perangkat dinyalakan atau digunakan, terjadi Engsel rusak yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,GPU eksternal tidak terdeteksi,"Saat menjalankan aktivitas rutin, pengguna menemukan GPU eksternal tidak terdeteksi dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,GPU laptop tidak terdeteksi,Pengguna mengalami GPU laptop tidak terdeteksi; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,GPU terlalu panas,Pengguna melaporkan GPU terlalu panas; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Gangguan perangkat keras menyebabkan layar biru,Pengguna meminta bantuan setelah mengalami Gangguan perangkat keras menyebabkan layar biru; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,HDD eksternal tidak dapat dipasang,Pengguna mendapati HDD eksternal tidak dapat dipasang; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Hard drive mengalami kerusakan,Tiket dibuat karena ditemukan Hard drive mengalami kerusakan; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Hub USB tidak dikenali,Kendala Hub USB tidak dikenali muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Hubung singkat motherboard laptop,Permintaan dukungan dibuat karena Hubung singkat motherboard laptop terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Kamera laptop buram,"Saat digunakan untuk bekerja, perangkat menunjukkan Kamera laptop buram sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Kapasitor motherboard rusak,"Ketika perangkat dinyalakan atau digunakan, terjadi Kapasitor motherboard rusak yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Kartu grafis terlalu panas,"Saat menjalankan aktivitas rutin, pengguna menemukan Kartu grafis terlalu panas dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Kegagalan RAM,Pengguna mengalami Kegagalan RAM; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Kegagalan baterai CMOS laptop,Pengguna melaporkan Kegagalan baterai CMOS laptop; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Kegagalan catu daya,Pengguna meminta bantuan setelah mengalami Kegagalan catu daya; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Kegagalan kipas laptop,Pengguna mendapati Kegagalan kipas laptop; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Kegagalan lampu latar keyboard laptop,Tiket dibuat karena ditemukan Kegagalan lampu latar keyboard laptop; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Kegagalan lampu proyektor,Kendala Kegagalan lampu proyektor muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Kegagalan motherboard,Permintaan dukungan dibuat karena Kegagalan motherboard terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Kegagalan perangkat periferal,"Saat digunakan untuk bekerja, perangkat menunjukkan Kegagalan perangkat periferal sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Kegagalan slot RAM laptop,"Ketika perangkat dinyalakan atau digunakan, terjadi Kegagalan slot RAM laptop yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Kegagalan speaker/audio,"Saat menjalankan aktivitas rutin, pengguna menemukan Kegagalan speaker/audio dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Kertas printer macet,Pengguna mengalami Kertas printer macet; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Kesalahan BIOS,Pengguna melaporkan Kesalahan BIOS; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Kesalahan kartrid tinta printer,Pengguna meminta bantuan setelah mengalami Kesalahan kartrid tinta printer; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Keyboard tidak berfungsi dengan baik,Pengguna mendapati Keyboard tidak berfungsi dengan baik; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Kipas laptop berisik,Tiket dibuat karena ditemukan Kipas laptop berisik; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Laptop mati karena terlalu panas,Kendala Laptop mati karena terlalu panas muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Laptop tidak dapat menyala,Permintaan dukungan dibuat karena Laptop tidak dapat menyala terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Layar laptop berkedip,"Saat digunakan untuk bekerja, perangkat menunjukkan Layar laptop berkedip sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Layar laptop bermasalah,"Ketika perangkat dinyalakan atau digunakan, terjadi Layar laptop bermasalah yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar laptop berwarna jingga,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar laptop berwarna jingga dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar laptop berwarna kebiruan,Pengguna mengalami Layar laptop berwarna kebiruan; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Layar laptop berwarna kehijauan,Pengguna melaporkan Layar laptop berwarna kehijauan; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Layar laptop berwarna kekuningan,Pengguna meminta bantuan setelah mengalami Layar laptop berwarna kekuningan; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Layar laptop berwarna kemerahan,Pengguna mendapati Layar laptop berwarna kemerahan; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Layar laptop berwarna merah muda,Tiket dibuat karena ditemukan Layar laptop berwarna merah muda; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Layar laptop berwarna ungu,Kendala Layar laptop berwarna ungu muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Layar laptop driver tidak tersedia,Permintaan dukungan dibuat karena Layar laptop driver tidak tersedia terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Layar laptop engselnya rusak,"Saat digunakan untuk bekerja, perangkat menunjukkan Layar laptop engselnya rusak sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Layar laptop kabelnya longgar,"Ketika perangkat dinyalakan atau digunakan, terjadi Layar laptop kabelnya longgar yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar laptop konektornya gagal berfungsi,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar laptop konektornya gagal berfungsi dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar laptop lampu latar gagal berfungsi,Pengguna mengalami Layar laptop lampu latar gagal berfungsi; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Layar laptop memiliki piksel mati,Pengguna melaporkan Layar laptop memiliki piksel mati; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Layar laptop menampilkan bayangan gambar,Pengguna meminta bantuan setelah mengalami Layar laptop menampilkan bayangan gambar; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Layar laptop menampilkan gambar beku,Pengguna mendapati Layar laptop menampilkan gambar beku; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan garis horizontal,Tiket dibuat karena ditemukan Layar laptop menampilkan garis horizontal; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Layar laptop menampilkan garis vertikal,Kendala Layar laptop menampilkan garis vertikal muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Layar laptop menampilkan garis-garis,Permintaan dukungan dibuat karena Layar laptop menampilkan garis-garis terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Layar laptop menampilkan layar hitam,"Saat digunakan untuk bekerja, perangkat menunjukkan Layar laptop menampilkan layar hitam sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Layar laptop menampilkan layar putih,"Ketika perangkat dinyalakan atau digunakan, terjadi Layar laptop menampilkan layar putih yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar laptop menampilkan warna terbalik,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar laptop menampilkan warna terbalik dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar laptop mengalami burn-in,Pengguna mengalami Layar laptop mengalami burn-in; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Layar laptop mengalami distorsi warna,Pengguna melaporkan Layar laptop mengalami distorsi warna; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Layar laptop mengalami ghosting,Pengguna meminta bantuan setelah mengalami Layar laptop mengalami ghosting; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Layar laptop mengalami kesalahan resolusi,Pengguna mendapati Layar laptop mengalami kesalahan resolusi; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Layar laptop mengalami masalah grayscale,Tiket dibuat karena ditemukan Layar laptop mengalami masalah grayscale; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Layar laptop mengalami masalah kecerahan,Kendala Layar laptop mengalami masalah kecerahan muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Layar laptop mengalami masalah refresh rate,Permintaan dukungan dibuat karena Layar laptop mengalami masalah refresh rate terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Layar laptop redup,"Saat digunakan untuk bekerja, perangkat menunjukkan Layar laptop redup sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Layar laptop retak,"Ketika perangkat dinyalakan atau digunakan, terjadi Layar laptop retak yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Layar sentuh laptop tidak berfungsi,"Saat menjalankan aktivitas rutin, pengguna menemukan Layar sentuh laptop tidak berfungsi dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Layar tablet retak,Pengguna mengalami Layar tablet retak; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Masalah docking station,Pengguna melaporkan Masalah docking station; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Masalah kalibrasi scanner,Pengguna meminta bantuan setelah mengalami Masalah kalibrasi scanner; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Masalah klik ganda mouse,Pengguna mendapati Masalah klik ganda mouse; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Masalah kompatibilitas perangkat periferal,Tiket dibuat karena ditemukan Masalah kompatibilitas perangkat periferal; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Masalah mouse,Kendala Masalah mouse muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,Masalah panas berlebih,Permintaan dukungan dibuat karena Masalah panas berlebih terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Masalah pengisian daya smartphone,"Saat digunakan untuk bekerja, perangkat menunjukkan Masalah pengisian daya smartphone sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Masalah printer,"Ketika perangkat dinyalakan atau digunakan, terjadi Masalah printer yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Masalah suara kipas,"Saat menjalankan aktivitas rutin, pengguna menemukan Masalah suara kipas dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Mikrofon headset tidak berfungsi,Pengguna mengalami Mikrofon headset tidak berfungsi; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Mikrofon laptop tidak berfungsi,Pengguna melaporkan Mikrofon laptop tidak berfungsi; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Monitor berkedip,Pengguna meminta bantuan setelah mengalami Monitor berkedip; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Monitor memiliki piksel mati,Pengguna mendapati Monitor memiliki piksel mati; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Port USB tidak berfungsi,Tiket dibuat karena ditemukan Port USB tidak berfungsi; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,Port pengisian daya laptop longgar,Kendala Port pengisian daya laptop longgar muncul pada perangkat pengguna dan menyebabkan salah satu fungsi utama tidak bekerja sebagaimana mestinya.
+Perangkat Keras,SSD eksternal terlalu panas,Permintaan dukungan dibuat karena SSD eksternal terlalu panas terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,SSD tidak terdeteksi,"Saat digunakan untuk bekerja, perangkat menunjukkan SSD tidak terdeteksi sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Sambungan kabel longgar,"Ketika perangkat dinyalakan atau digunakan, terjadi Sambungan kabel longgar yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,Scanner tidak terdeteksi,"Saat menjalankan aktivitas rutin, pengguna menemukan Scanner tidak terdeteksi dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Suara speaker laptop terdistorsi,Pengguna mengalami Suara speaker laptop terdistorsi; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Tombol keyboard macet,Pengguna melaporkan Tombol keyboard macet; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Touchpad tidak merespons,Pengguna meminta bantuan setelah mengalami Touchpad tidak merespons; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Trackpad laptop bergerak tidak stabil,Pengguna mendapati Trackpad laptop bergerak tidak stabil; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Webcam tidak berfungsi dengan baik,Tiket dibuat karena ditemukan Webcam tidak berfungsi dengan baik; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Keras,BIOS laptop rusak,Permintaan dukungan dibuat karena BIOS laptop rusak terjadi berulang pada perangkat yang digunakan untuk pekerjaan.
+Perangkat Keras,Baterai laptop menggembung,"Saat digunakan untuk bekerja, perangkat menunjukkan Baterai laptop menggembung sehingga fungsi terkait tidak dapat digunakan secara konsisten."
+Perangkat Keras,Baterai tidak mengisi daya,"Ketika perangkat dinyalakan atau digunakan, terjadi Baterai tidak mengisi daya yang mengganggu penyelesaian pekerjaan pengguna."
+Perangkat Keras,CPU terlalu panas,"Saat menjalankan aktivitas rutin, pengguna menemukan CPU terlalu panas dan perangkat tidak merespons seperti biasanya."
+Perangkat Keras,Casing laptop retak,Pengguna mengalami Casing laptop retak; perangkat tidak berfungsi normal dan gangguan tetap terjadi setelah dicoba kembali.
+Perangkat Keras,Desktop tidak dapat boot,Pengguna melaporkan Desktop tidak dapat boot; masalah muncul saat perangkat digunakan dan belum pulih setelah pemeriksaan awal.
+Perangkat Keras,Docking station tidak dikenali,Pengguna meminta bantuan setelah mengalami Docking station tidak dikenali; percobaan penggunaan ulang belum menyelesaikan masalah.
+Perangkat Keras,Drive CD/DVD tidak berfungsi,Pengguna mendapati Drive CD/DVD tidak berfungsi; kondisi perangkat menjadi tidak stabil dan memerlukan pemeriksaan lebih lanjut.
+Perangkat Keras,Driver perangkat keras tidak ditemukan,Tiket dibuat karena ditemukan Driver perangkat keras tidak ditemukan; kondisi tersebut menghambat penggunaan perangkat pada aktivitas harian.
+Perangkat Lunak,Antarmuka pengguna tidak merespons,Pengguna mengalami Antarmuka pengguna tidak merespons saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Antivirus tidak dapat diperbarui,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Antivirus tidak dapat diperbarui dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak,Pengguna meminta bantuan karena Aplikasi berhenti mendadak menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat analitik,Pengguna menemukan Aplikasi berhenti mendadak saat analitik; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat boot VM,Tiket dibuat setelah Aplikasi berhenti mendadak saat boot VM terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat debugging,Masalah Aplikasi berhenti mendadak saat debugging muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat deployment,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat deployment secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat deployment VM,Aplikasi menunjukkan Aplikasi berhenti mendadak saat deployment VM; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat dijalankan,Pengguna melaporkan Aplikasi berhenti mendadak saat dijalankan; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat ekspor,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat ekspor sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat impor,Pengguna mengalami Aplikasi berhenti mendadak saat impor saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat instalasi,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat instalasi dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat keluar,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat keluar menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat kompilasi,Pengguna menemukan Aplikasi berhenti mendadak saat kompilasi; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat login,Tiket dibuat setelah Aplikasi berhenti mendadak saat login terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat logout,Masalah Aplikasi berhenti mendadak saat logout muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat membuat laporan,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat membuat laporan secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat membuka dashboard,Aplikasi menunjukkan Aplikasi berhenti mendadak saat membuka dashboard; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat,Pengguna melaporkan Aplikasi berhenti mendadak saat memuat; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat ekstensi,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat memuat ekstensi sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat framework,Pengguna mengalami Aplikasi berhenti mendadak saat memuat framework saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat library,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat memuat library dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat modul,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat memuat modul menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat plugin,Pengguna menemukan Aplikasi berhenti mendadak saat memuat plugin; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memutuskan koneksi,Tiket dibuat setelah Aplikasi berhenti mendadak saat memutuskan koneksi terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat mencetak,Masalah Aplikasi berhenti mendadak saat mencetak muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menghubungkan,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat menghubungkan secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan container,Aplikasi menunjukkan Aplikasi berhenti mendadak saat menjalankan container; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan kueri,Pengguna melaporkan Aplikasi berhenti mendadak saat menjalankan kueri; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan makro,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat menjalankan makro sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan skrip,Pengguna mengalami Aplikasi berhenti mendadak saat menjalankan skrip saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan workflow,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat menjalankan workflow dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat menyimpan,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat menyimpan menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat migrasi VM,Pengguna menemukan Aplikasi berhenti mendadak saat migrasi VM; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat otomatisasi,Tiket dibuat setelah Aplikasi berhenti mendadak saat otomatisasi terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemanggilan API,Masalah Aplikasi berhenti mendadak saat pemanggilan API muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemanggilan layanan,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat pemanggilan layanan secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pembaruan,Aplikasi menunjukkan Aplikasi berhenti mendadak saat pembaruan; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pembuatan snapshot VM,Pengguna melaporkan Aplikasi berhenti mendadak saat pembuatan snapshot VM; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemulihan,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat pemulihan sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemulihan VM,Pengguna mengalami Aplikasi berhenti mendadak saat pemulihan VM saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pencadangan,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat pencadangan dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat pengujian,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat pengujian menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat proses build,Pengguna menemukan Aplikasi berhenti mendadak saat proses build; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat shutdown VM,Tiket dibuat setelah Aplikasi berhenti mendadak saat shutdown VM terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat sinkronisasi,Masalah Aplikasi berhenti mendadak saat sinkronisasi muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat sinkronisasi cloud,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat sinkronisasi cloud secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat uninstall,Aplikasi menunjukkan Aplikasi berhenti mendadak saat uninstall; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat visualisasi,Pengguna melaporkan Aplikasi berhenti mendadak saat visualisasi; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi macet,"Ketika aplikasi dijalankan, terjadi Aplikasi macet sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi macet saat startup,Pengguna mengalami Aplikasi macet saat startup saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi seluler tidak dapat diinstal,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi seluler tidak dapat diinstal dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi tidak merespons,Pengguna meminta bantuan karena Aplikasi tidak merespons menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Browser berhenti mendadak,Pengguna menemukan Browser berhenti mendadak; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Cache rusak,Tiket dibuat setelah Cache rusak terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Deadlock pada aplikasi,Masalah Deadlock pada aplikasi muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Dependensi perangkat lunak tidak tersedia,Permintaan dukungan dibuat setelah pengguna mengalami Dependensi perangkat lunak tidak tersedia secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,File konfigurasi tidak ditemukan,Aplikasi menunjukkan File konfigurasi tidak ditemukan; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,File rusak,Pengguna melaporkan File rusak; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Format file tidak didukung,"Ketika aplikasi dijalankan, terjadi Format file tidak didukung sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,IDE tidak dapat dibuka,Pengguna mengalami IDE tidak dapat dibuka saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Instalasi perangkat lunak gagal,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Instalasi perangkat lunak gagal dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Jenis file tidak dikenali,Pengguna meminta bantuan karena Jenis file tidak dikenali menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Kebocoran memori terdeteksi,Pengguna menemukan Kebocoran memori terdeteksi; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Kegagalan login alat kolaborasi,Tiket dibuat setelah Kegagalan login alat kolaborasi terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Kegagalan pemanggilan API,Masalah Kegagalan pemanggilan API muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Kegagalan sinkronisasi cloud,Permintaan dukungan dibuat setelah pengguna mengalami Kegagalan sinkronisasi cloud secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Kegagalan startup aplikasi,Aplikasi menunjukkan Kegagalan startup aplikasi; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Kesalahan autentikasi,Pengguna melaporkan Kesalahan autentikasi; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Kesalahan compiler,"Ketika aplikasi dijalankan, terjadi Kesalahan compiler sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Kesalahan deployment container,Pengguna mengalami Kesalahan deployment container saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Kesalahan eksekusi makro,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Kesalahan eksekusi makro dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Kesalahan formula spreadsheet,Pengguna meminta bantuan karena Kesalahan formula spreadsheet menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Kesalahan koneksi basis data,Pengguna menemukan Kesalahan koneksi basis data; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Kesalahan registry,Tiket dibuat setelah Kesalahan registry terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Kesalahan runtime skrip,Masalah Kesalahan runtime skrip muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Kesalahan sistem operasi,Permintaan dukungan dibuat setelah pengguna mengalami Kesalahan sistem operasi secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Ketidakcocokan versi,Aplikasi menunjukkan Ketidakcocokan versi; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Ketidaksesuaian konfigurasi aplikasi,Pengguna melaporkan Ketidaksesuaian konfigurasi aplikasi; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Kinerja aplikasi lambat,"Ketika aplikasi dijalankan, terjadi Kinerja aplikasi lambat sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Klien email tidak melakukan sinkronisasi,Pengguna mengalami Klien email tidak melakukan sinkronisasi saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Konflik driver,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Konflik driver dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Konflik patch,Pengguna meminta bantuan karena Konflik patch menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Layanan tidak dapat dimulai,Pengguna menemukan Layanan tidak dapat dimulai; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Lisensi aplikasi kedaluwarsa,Tiket dibuat setelah Lisensi aplikasi kedaluwarsa terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Masalah lisensi,Masalah Masalah lisensi muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Masalah rollback pembaruan,Permintaan dukungan dibuat setelah pengguna mengalami Masalah rollback pembaruan secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Memori aplikasi meluap,Aplikasi menunjukkan Memori aplikasi meluap; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Mesin virtual berhenti mendadak,Pengguna melaporkan Mesin virtual berhenti mendadak; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Paket instalasi rusak,"Ketika aplikasi dijalankan, terjadi Paket instalasi rusak sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Pembaruan patch gagal,Pengguna mengalami Pembaruan patch gagal saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Pembaruan perangkat lunak berulang terus,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Pembaruan perangkat lunak berulang terus dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Penggunaan CPU aplikasi berlebihan,Pengguna meminta bantuan karena Penggunaan CPU aplikasi berlebihan menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Perangkat lunak kehabisan waktu,Pengguna menemukan Perangkat lunak kehabisan waktu; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Plugin tidak dapat dimuat,Tiket dibuat setelah Plugin tidak dapat dimuat terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Proses latar belakang macet,Masalah Proses latar belakang macet muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Registry aplikasi rusak,Permintaan dukungan dibuat setelah pengguna mengalami Registry aplikasi rusak secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Sesi berakhir karena batas waktu,Aplikasi menunjukkan Sesi berakhir karena batas waktu; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Versi sistem operasi tidak didukung,Pengguna melaporkan Versi sistem operasi tidak didukung; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Antarmuka pengguna tidak merespons,Pengguna melaporkan Antarmuka pengguna tidak merespons; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Antivirus tidak dapat diperbarui,"Ketika aplikasi dijalankan, terjadi Antivirus tidak dapat diperbarui sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak,Pengguna mengalami Aplikasi berhenti mendadak saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat analitik,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat analitik dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat boot VM,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat boot VM menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat debugging,Pengguna menemukan Aplikasi berhenti mendadak saat debugging; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat deployment,Tiket dibuat setelah Aplikasi berhenti mendadak saat deployment terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat deployment VM,Masalah Aplikasi berhenti mendadak saat deployment VM muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat dijalankan,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat dijalankan secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat ekspor,Aplikasi menunjukkan Aplikasi berhenti mendadak saat ekspor; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat impor,Pengguna melaporkan Aplikasi berhenti mendadak saat impor; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat instalasi,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat instalasi sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat keluar,Pengguna mengalami Aplikasi berhenti mendadak saat keluar saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat kompilasi,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat kompilasi dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat login,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat login menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat logout,Pengguna menemukan Aplikasi berhenti mendadak saat logout; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat membuat laporan,Tiket dibuat setelah Aplikasi berhenti mendadak saat membuat laporan terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat membuka dashboard,Masalah Aplikasi berhenti mendadak saat membuka dashboard muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat memuat secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat ekstensi,Aplikasi menunjukkan Aplikasi berhenti mendadak saat memuat ekstensi; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat framework,Pengguna melaporkan Aplikasi berhenti mendadak saat memuat framework; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat library,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat memuat library sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat modul,Pengguna mengalami Aplikasi berhenti mendadak saat memuat modul saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat plugin,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat memuat plugin dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat memutuskan koneksi,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat memutuskan koneksi menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat mencetak,Pengguna menemukan Aplikasi berhenti mendadak saat mencetak; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menghubungkan,Tiket dibuat setelah Aplikasi berhenti mendadak saat menghubungkan terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan container,Masalah Aplikasi berhenti mendadak saat menjalankan container muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan kueri,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat menjalankan kueri secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan makro,Aplikasi menunjukkan Aplikasi berhenti mendadak saat menjalankan makro; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan skrip,Pengguna melaporkan Aplikasi berhenti mendadak saat menjalankan skrip; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan workflow,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat menjalankan workflow sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat menyimpan,Pengguna mengalami Aplikasi berhenti mendadak saat menyimpan saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat migrasi VM,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat migrasi VM dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat otomatisasi,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat otomatisasi menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemanggilan API,Pengguna menemukan Aplikasi berhenti mendadak saat pemanggilan API; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemanggilan layanan,Tiket dibuat setelah Aplikasi berhenti mendadak saat pemanggilan layanan terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pembaruan,Masalah Aplikasi berhenti mendadak saat pembaruan muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pembuatan snapshot VM,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat pembuatan snapshot VM secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemulihan,Aplikasi menunjukkan Aplikasi berhenti mendadak saat pemulihan; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemulihan VM,Pengguna melaporkan Aplikasi berhenti mendadak saat pemulihan VM; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pencadangan,"Ketika aplikasi dijalankan, terjadi Aplikasi berhenti mendadak saat pencadangan sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi berhenti mendadak saat pengujian,Pengguna mengalami Aplikasi berhenti mendadak saat pengujian saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Aplikasi berhenti mendadak saat proses build,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Aplikasi berhenti mendadak saat proses build dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Aplikasi berhenti mendadak saat shutdown VM,Pengguna meminta bantuan karena Aplikasi berhenti mendadak saat shutdown VM menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat sinkronisasi,Pengguna menemukan Aplikasi berhenti mendadak saat sinkronisasi; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak saat sinkronisasi cloud,Tiket dibuat setelah Aplikasi berhenti mendadak saat sinkronisasi cloud terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Aplikasi berhenti mendadak saat uninstall,Masalah Aplikasi berhenti mendadak saat uninstall muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Aplikasi berhenti mendadak saat visualisasi,Permintaan dukungan dibuat setelah pengguna mengalami Aplikasi berhenti mendadak saat visualisasi secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Aplikasi macet,Aplikasi menunjukkan Aplikasi macet; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi macet saat startup,Pengguna melaporkan Aplikasi macet saat startup; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Aplikasi seluler tidak dapat diinstal,"Ketika aplikasi dijalankan, terjadi Aplikasi seluler tidak dapat diinstal sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Aplikasi tidak merespons,Pengguna mengalami Aplikasi tidak merespons saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Browser berhenti mendadak,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Browser berhenti mendadak dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Cache rusak,Pengguna meminta bantuan karena Cache rusak menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Deadlock pada aplikasi,Pengguna menemukan Deadlock pada aplikasi; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Dependensi perangkat lunak tidak tersedia,Tiket dibuat setelah Dependensi perangkat lunak tidak tersedia terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,File konfigurasi tidak ditemukan,Masalah File konfigurasi tidak ditemukan muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,File rusak,Permintaan dukungan dibuat setelah pengguna mengalami File rusak secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Format file tidak didukung,Aplikasi menunjukkan Format file tidak didukung; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,IDE tidak dapat dibuka,Pengguna melaporkan IDE tidak dapat dibuka; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Instalasi perangkat lunak gagal,"Ketika aplikasi dijalankan, terjadi Instalasi perangkat lunak gagal sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Jenis file tidak dikenali,Pengguna mengalami Jenis file tidak dikenali saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Kebocoran memori terdeteksi,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Kebocoran memori terdeteksi dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Kegagalan login alat kolaborasi,Pengguna meminta bantuan karena Kegagalan login alat kolaborasi menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Kegagalan pemanggilan API,Pengguna menemukan Kegagalan pemanggilan API; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Kegagalan sinkronisasi cloud,Tiket dibuat setelah Kegagalan sinkronisasi cloud terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Kegagalan startup aplikasi,Masalah Kegagalan startup aplikasi muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Kesalahan autentikasi,Permintaan dukungan dibuat setelah pengguna mengalami Kesalahan autentikasi secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Kesalahan compiler,Aplikasi menunjukkan Kesalahan compiler; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Kesalahan deployment container,Pengguna melaporkan Kesalahan deployment container; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Kesalahan eksekusi makro,"Ketika aplikasi dijalankan, terjadi Kesalahan eksekusi makro sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Kesalahan formula spreadsheet,Pengguna mengalami Kesalahan formula spreadsheet saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Kesalahan koneksi basis data,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Kesalahan koneksi basis data dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Kesalahan registry,Pengguna meminta bantuan karena Kesalahan registry menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Kesalahan runtime skrip,Pengguna menemukan Kesalahan runtime skrip; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Kesalahan sistem operasi,Tiket dibuat setelah Kesalahan sistem operasi terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Ketidakcocokan versi,Masalah Ketidakcocokan versi muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Ketidaksesuaian konfigurasi aplikasi,Permintaan dukungan dibuat setelah pengguna mengalami Ketidaksesuaian konfigurasi aplikasi secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Kinerja aplikasi lambat,Aplikasi menunjukkan Kinerja aplikasi lambat; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Klien email tidak melakukan sinkronisasi,Pengguna melaporkan Klien email tidak melakukan sinkronisasi; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Konflik driver,"Ketika aplikasi dijalankan, terjadi Konflik driver sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Konflik patch,Pengguna mengalami Konflik patch saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Layanan tidak dapat dimulai,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Layanan tidak dapat dimulai dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Lisensi aplikasi kedaluwarsa,Pengguna meminta bantuan karena Lisensi aplikasi kedaluwarsa menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Masalah lisensi,Pengguna menemukan Masalah lisensi; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Masalah rollback pembaruan,Tiket dibuat setelah Masalah rollback pembaruan terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Memori aplikasi meluap,Masalah Memori aplikasi meluap muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Mesin virtual berhenti mendadak,Permintaan dukungan dibuat setelah pengguna mengalami Mesin virtual berhenti mendadak secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Paket instalasi rusak,Aplikasi menunjukkan Paket instalasi rusak; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Pembaruan patch gagal,Pengguna melaporkan Pembaruan patch gagal; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.
+Perangkat Lunak,Pembaruan perangkat lunak berulang terus,"Ketika aplikasi dijalankan, terjadi Pembaruan perangkat lunak berulang terus sehingga pekerjaan pengguna tertunda."
+Perangkat Lunak,Penggunaan CPU aplikasi berlebihan,Pengguna mengalami Penggunaan CPU aplikasi berlebihan saat menjalankan aplikasi; proses kerja tidak dapat diselesaikan seperti biasa.
+Perangkat Lunak,Perangkat lunak kehabisan waktu,"Saat menggunakan aplikasi untuk pekerjaan rutin, pengguna menemui Perangkat lunak kehabisan waktu dan proses tidak dapat dilanjutkan."
+Perangkat Lunak,Plugin tidak dapat dimuat,Pengguna meminta bantuan karena Plugin tidak dapat dimuat menyebabkan salah satu fungsi aplikasi tidak dapat digunakan.
+Perangkat Lunak,Proses latar belakang macet,Pengguna menemukan Proses latar belakang macet; aplikasi tidak bekerja sesuai perilaku normal meskipun sudah dijalankan kembali.
+Perangkat Lunak,Registry aplikasi rusak,Tiket dibuat setelah Registry aplikasi rusak terjadi ketika pengguna menjalankan fungsi aplikasi yang diperlukan.
+Perangkat Lunak,Sesi berakhir karena batas waktu,Masalah Sesi berakhir karena batas waktu muncul saat program digunakan dan tetap terjadi setelah pengguna mencoba mengulang proses.
+Perangkat Lunak,Versi sistem operasi tidak didukung,Permintaan dukungan dibuat setelah pengguna mengalami Versi sistem operasi tidak didukung secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Antarmuka pengguna tidak merespons,Permintaan dukungan dibuat setelah pengguna mengalami Antarmuka pengguna tidak merespons secara berulang pada aplikasi yang digunakan.
+Perangkat Lunak,Antivirus tidak dapat diperbarui,Aplikasi menunjukkan Antivirus tidak dapat diperbarui; masalah tetap muncul setelah program ditutup dan dibuka kembali.
+Perangkat Lunak,Aplikasi berhenti mendadak,Pengguna melaporkan Aplikasi berhenti mendadak; fungsi aplikasi yang sebelumnya berjalan normal kini mengalami gangguan.

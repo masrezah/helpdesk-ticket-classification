@@ -1,0 +1,494 @@
+﻿Kategori,Subkategori,Deskripsi
+Akses,Akses ditolak oleh kebijakan auditor,Pengguna melaporkan akses ditolak oleh kebijakan auditor. Diperlukan investigasi lebih lanjut.
+Keamanan,Injeksi DLL mencurigakan,Pengguna melaporkan injeksi dll mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan SOC mencurigakan,Pengguna melaporkan peringatan soc mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi macet,Pengguna melaporkan aplikasi macet. Diperlukan investigasi lebih lanjut.
+Akses,Kegagalan pencatatan akses,Pengguna melaporkan kegagalan pencatatan akses. Diperlukan investigasi lebih lanjut.
+Keamanan,Lalu lintas keluar mencurigakan,Pengguna melaporkan lalu lintas keluar mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Percobaan akses tidak sah,Pengguna melaporkan percobaan akses tidak sah. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan perangkat periferal,Pengguna melaporkan kegagalan perangkat periferal. Diperlukan investigasi lebih lanjut.
+Jaringan,Access point tidak aktif,Pengguna melaporkan access point tidak aktif. Diperlukan investigasi lebih lanjut.
+Keamanan,Pembajakan sesi mencurigakan,Pengguna melaporkan pembajakan sesi mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Port pengisian daya laptop longgar,Pengguna melaporkan port pengisian daya laptop longgar. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat mencetak,Pengguna melaporkan aplikasi berhenti mendadak saat mencetak. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh gangguan layanan,Pengguna melaporkan akses ditolak oleh gangguan layanan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat sinkronisasi,Pengguna melaporkan aplikasi berhenti mendadak saat sinkronisasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berwarna kemerahan,Pengguna melaporkan layar laptop berwarna kemerahan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop mengalami distorsi warna,Pengguna melaporkan layar laptop mengalami distorsi warna. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kinerja aplikasi lambat,Pengguna melaporkan kinerja aplikasi lambat. Diperlukan investigasi lebih lanjut.
+Akses,Kegagalan login remote desktop,Pengguna melaporkan kegagalan login remote desktop. Diperlukan investigasi lebih lanjut.
+Akses,Pelanggaran kepatuhan akses,Pengguna melaporkan pelanggaran kepatuhan akses. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Sambungan kabel longgar,Pengguna melaporkan sambungan kabel longgar. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kegagalan login alat kolaborasi,Pengguna melaporkan kegagalan login alat kolaborasi. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kesalahan dual-stack,Pengguna melaporkan jaringan: kesalahan dual-stack. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan mitra,Pengguna melaporkan akses ditolak oleh kebijakan mitra. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Webcam tidak berfungsi dengan baik,Pengguna melaporkan webcam tidak berfungsi dengan baik. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi seluler tidak dapat diinstal,Pengguna melaporkan aplikasi seluler tidak dapat diinstal. Diperlukan investigasi lebih lanjut.
+Keamanan,Infeksi spyware,Pengguna melaporkan infeksi spyware. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemanggilan API,Pengguna melaporkan aplikasi berhenti mendadak saat pemanggilan api. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Engsel laptop longgar,Pengguna melaporkan engsel laptop longgar. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh switch,Pengguna melaporkan akses ditolak oleh switch. Diperlukan investigasi lebih lanjut.
+Jaringan,Konflik IP,Pengguna melaporkan konflik ip. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan kueri,Pengguna melaporkan aplikasi berhenti mendadak saat menjalankan kueri. Diperlukan investigasi lebih lanjut.
+Jaringan,Firewall memblokir akses,Pengguna melaporkan firewall memblokir akses. Diperlukan investigasi lebih lanjut.
+Akses,Hak akses dicabut,Pengguna melaporkan hak akses dicabut. Diperlukan investigasi lebih lanjut.
+Keamanan,Server C2 mencurigakan terdeteksi,Pengguna melaporkan server c2 mencurigakan terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah pengisian daya smartphone,Pengguna melaporkan masalah pengisian daya smartphone. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan kata sandi,Pengguna melaporkan akses ditolak oleh kebijakan kata sandi. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran NIST mencurigakan,Pengguna melaporkan pelanggaran nist mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kegagalan pemanggilan API,Pengguna melaporkan kegagalan pemanggilan api. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan perangkat IoT mencurigakan,Pengguna melaporkan peringatan perangkat iot mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,SSD tidak terdeteksi,Pengguna melaporkan ssd tidak terdeteksi. Diperlukan investigasi lebih lanjut.
+Jaringan,Load balancer salah konfigurasi,Pengguna melaporkan load balancer salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Port USB tidak berfungsi,Pengguna melaporkan port usb tidak berfungsi. Diperlukan investigasi lebih lanjut.
+Keamanan,Rootkit ditemukan,Pengguna melaporkan rootkit ditemukan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan tamu,Pengguna melaporkan akses ditolak oleh kebijakan tamu. Diperlukan investigasi lebih lanjut.
+Jaringan,Kesalahan konfigurasi server proxy,Pengguna melaporkan kesalahan konfigurasi server proxy. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat sinkronisasi cloud,Pengguna melaporkan aplikasi berhenti mendadak saat sinkronisasi cloud. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat ekspor,Pengguna melaporkan aplikasi berhenti mendadak saat ekspor. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: adapter dinonaktifkan,Pengguna melaporkan jaringan: adapter dinonaktifkan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat membuka dashboard,Pengguna melaporkan aplikasi berhenti mendadak saat membuka dashboard. Diperlukan investigasi lebih lanjut.
+Keamanan,Kompromi mitra mencurigakan,Pengguna melaporkan kompromi mitra mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: DDoS terdeteksi,Pengguna melaporkan jaringan: ddos terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh API,Pengguna melaporkan akses ditolak oleh api. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah panas berlebih,Pengguna melaporkan masalah panas berlebih. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: blackhole routing,Pengguna melaporkan jaringan: blackhole routing. Diperlukan investigasi lebih lanjut.
+Jaringan,Access point salah konfigurasi,Pengguna melaporkan access point salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Lalu lintas beaconing mencurigakan,Pengguna melaporkan lalu lintas beaconing mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan ISO,Pengguna melaporkan akses ditolak oleh kebijakan iso. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan malware,Pengguna melaporkan peringatan malware. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat proses build,Pengguna melaporkan aplikasi berhenti mendadak saat proses build. Diperlukan investigasi lebih lanjut.
+Jaringan,Switch terlalu panas,Pengguna melaporkan switch terlalu panas. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran kebijakan mencurigakan,Pengguna melaporkan pelanggaran kebijakan mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan SIEM,Pengguna melaporkan akses ditolak oleh kebijakan siem. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan perangkat seluler mencurigakan,Pengguna melaporkan peringatan perangkat seluler mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Eksekusi proses mencurigakan,Pengguna melaporkan eksekusi proses mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan CASB,Pengguna melaporkan akses ditolak oleh kebijakan casb. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: SNMP salah konfigurasi,Pengguna melaporkan jaringan: snmp salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Akses,Token akses salah konfigurasi,Pengguna melaporkan token akses salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop bermasalah,Pengguna melaporkan layar laptop bermasalah. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Casing laptop retak,Pengguna melaporkan casing laptop retak. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kesalahan subnet mask,Pengguna melaporkan jaringan: kesalahan subnet mask. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan repeater,Pengguna melaporkan jaringan: kegagalan repeater. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat modul,Pengguna melaporkan aplikasi berhenti mendadak saat memuat modul. Diperlukan investigasi lebih lanjut.
+Akses,Ketidaksesuaian peran akses,Pengguna melaporkan ketidaksesuaian peran akses. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: IPv6 salah konfigurasi,Pengguna melaporkan jaringan: ipv6 salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Situs phishing diblokir,Pengguna melaporkan situs phishing diblokir. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan compiler,Pengguna melaporkan kesalahan compiler. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Memori aplikasi meluap,Pengguna melaporkan memori aplikasi meluap. Diperlukan investigasi lebih lanjut.
+Jaringan,Masalah konektivitas Wi-Fi,Pengguna melaporkan masalah konektivitas wi-fi. Diperlukan investigasi lebih lanjut.
+Keamanan,Penggunaan token JWT mencurigakan,Pengguna melaporkan penggunaan token jwt mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pembuatan snapshot VM,Pengguna melaporkan aplikasi berhenti mendadak saat pembuatan snapshot vm. Diperlukan investigasi lebih lanjut.
+Jaringan,Firmware router sudah usang,Pengguna melaporkan firmware router sudah usang. Diperlukan investigasi lebih lanjut.
+Jaringan,Kehilangan paket terdeteksi,Pengguna melaporkan kehilangan paket terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop engselnya rusak,Pengguna melaporkan layar laptop engselnya rusak. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Mikrofon headset tidak berfungsi,Pengguna melaporkan mikrofon headset tidak berfungsi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh basis data,Pengguna melaporkan akses ditolak oleh basis data. Diperlukan investigasi lebih lanjut.
+Keamanan,Shadow IT mencurigakan terdeteksi,Pengguna melaporkan shadow it mencurigakan terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Reset PIN diperlukan,Pengguna melaporkan reset pin diperlukan. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas container mencurigakan,Pengguna melaporkan aktivitas container mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Akses pengguna ditolak,Pengguna melaporkan akses pengguna ditolak. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat framework,Pengguna melaporkan aplikasi berhenti mendadak saat memuat framework. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kesalahan tunneling,Pengguna melaporkan jaringan: kesalahan tunneling. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan sistem operasi,Pengguna melaporkan kesalahan sistem operasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan kipas laptop,Pengguna melaporkan kegagalan kipas laptop. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat otomatisasi,Pengguna melaporkan aplikasi berhenti mendadak saat otomatisasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas orang dalam mencurigakan,Pengguna melaporkan aktivitas orang dalam mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Masalah izin drive bersama,Pengguna melaporkan masalah izin drive bersama. Diperlukan investigasi lebih lanjut.
+Keamanan,Penggunaan token OAuth mencurigakan,Pengguna melaporkan penggunaan token oauth mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Serangan replay mencurigakan,Pengguna melaporkan serangan replay mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Keyboard tidak berfungsi dengan baik,Pengguna melaporkan keyboard tidak berfungsi dengan baik. Diperlukan investigasi lebih lanjut.
+Jaringan,Kesalahan NAT firewall,Pengguna melaporkan kesalahan nat firewall. Diperlukan investigasi lebih lanjut.
+Keamanan,Percobaan login brute force,Pengguna melaporkan percobaan login brute force. Diperlukan investigasi lebih lanjut.
+Jaringan,Hotspot tidak berfungsi,Pengguna melaporkan hotspot tidak berfungsi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan IAM,Pengguna melaporkan akses ditolak oleh kebijakan iam. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: DNS cache poisoning,Pengguna melaporkan jaringan: dns cache poisoning. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berwarna jingga,Pengguna melaporkan layar laptop berwarna jingga. Diperlukan investigasi lebih lanjut.
+Akses,Kegagalan audit akses,Pengguna melaporkan kegagalan audit akses. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan ICS mencurigakan,Pengguna melaporkan peringatan ics mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan bayangan gambar,Pengguna melaporkan layar laptop menampilkan bayangan gambar. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan perangkat OT mencurigakan,Pengguna melaporkan peringatan perangkat ot mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berwarna kekuningan,Pengguna melaporkan layar laptop berwarna kekuningan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan khusus,Pengguna melaporkan akses ditolak oleh kebijakan khusus. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,SSD eksternal terlalu panas,Pengguna melaporkan ssd eksternal terlalu panas. Diperlukan investigasi lebih lanjut.
+Akses,Kesalahan akses berbasis peran,Pengguna melaporkan kesalahan akses berbasis peran. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Pembaruan perangkat lunak berulang terus,Pengguna melaporkan pembaruan perangkat lunak berulang terus. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Ketidaksesuaian konfigurasi aplikasi,Pengguna melaporkan ketidaksesuaian konfigurasi aplikasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Login SaaS mencurigakan,Pengguna melaporkan login saas mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Eskalasi hak akses diblokir,Pengguna melaporkan eskalasi hak akses diblokir. Diperlukan investigasi lebih lanjut.
+Keamanan,Patch keamanan tidak tersedia,Pengguna melaporkan patch keamanan tidak tersedia. Diperlukan investigasi lebih lanjut.
+Keamanan,Unduhan file mencurigakan,Pengguna melaporkan unduhan file mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Endpoint tidak memenuhi kepatuhan,Pengguna melaporkan endpoint tidak memenuhi kepatuhan. Diperlukan investigasi lebih lanjut.
+Jaringan,Bandwidth terlampaui,Pengguna melaporkan bandwidth terlampaui. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan autentikasi,Pengguna melaporkan jaringan: kegagalan autentikasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,GPU terlalu panas,Pengguna melaporkan gpu terlalu panas. Diperlukan investigasi lebih lanjut.
+Jaringan,Batas waktu gateway habis,Pengguna melaporkan batas waktu gateway habis. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Laptop tidak dapat menyala,Pengguna melaporkan laptop tidak dapat menyala. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemulihan VM,Pengguna melaporkan aplikasi berhenti mendadak saat pemulihan vm. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh proxy,Pengguna melaporkan akses ditolak oleh proxy. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh router,Pengguna melaporkan akses ditolak oleh router. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan baterai CMOS laptop,Pengguna melaporkan kegagalan baterai cmos laptop. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Baterai laptop menggembung,Pengguna melaporkan baterai laptop menggembung. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat logout,Pengguna melaporkan aplikasi berhenti mendadak saat logout. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat keluar,Pengguna melaporkan aplikasi berhenti mendadak saat keluar. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Drive CD/DVD tidak berfungsi,Pengguna melaporkan drive cd/dvd tidak berfungsi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat impor,Pengguna melaporkan aplikasi berhenti mendadak saat impor. Diperlukan investigasi lebih lanjut.
+Keamanan,Tunneling lalu lintas mencurigakan,Pengguna melaporkan tunneling lalu lintas mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Klien email tidak melakukan sinkronisasi,Pengguna melaporkan klien email tidak melakukan sinkronisasi. Diperlukan investigasi lebih lanjut.
+Akses,Masalah keanggotaan grup,Pengguna melaporkan masalah keanggotaan grup. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan speaker/audio,Pengguna melaporkan kegagalan speaker/audio. Diperlukan investigasi lebih lanjut.
+Keamanan,Kata sandi lemah terdeteksi,Pengguna melaporkan kata sandi lemah terdeteksi. Diperlukan investigasi lebih lanjut.
+Keamanan,Perubahan registry mencurigakan,Pengguna melaporkan perubahan registry mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan layar hitam,Pengguna melaporkan layar laptop menampilkan layar hitam. Diperlukan investigasi lebih lanjut.
+Keamanan,Makro berbahaya terdeteksi,Pengguna melaporkan makro berbahaya terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Reset kata sandi,Pengguna melaporkan reset kata sandi. Diperlukan investigasi lebih lanjut.
+Akses,Kunci API kedaluwarsa,Pengguna melaporkan kunci api kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran ISO mencurigakan,Pengguna melaporkan pelanggaran iso mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Keylogger terdeteksi,Pengguna melaporkan keylogger terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Antarmuka pengguna tidak merespons,Pengguna melaporkan antarmuka pengguna tidak merespons. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan SSL VPN,Pengguna melaporkan jaringan: kegagalan ssl vpn. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Instalasi perangkat lunak gagal,Pengguna melaporkan instalasi perangkat lunak gagal. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Jenis file tidak dikenali,Pengguna melaporkan jenis file tidak dikenali. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat deployment VM,Pengguna melaporkan aplikasi berhenti mendadak saat deployment vm. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan koneksi basis data,Pengguna melaporkan kesalahan koneksi basis data. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan GDPR,Pengguna melaporkan akses ditolak oleh kebijakan gdpr. Diperlukan investigasi lebih lanjut.
+Keamanan,Penggunaan token API mencurigakan,Pengguna melaporkan penggunaan token api mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: server DHCP tidak aktif,Pengguna melaporkan jaringan: server dhcp tidak aktif. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berwarna ungu,Pengguna melaporkan layar laptop berwarna ungu. Diperlukan investigasi lebih lanjut.
+Akses,Login biometrik gagal,Pengguna melaporkan login biometrik gagal. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: ketidaksesuaian MTU,Pengguna melaporkan jaringan: ketidaksesuaian mtu. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan hub,Pengguna melaporkan jaringan: kegagalan hub. Diperlukan investigasi lebih lanjut.
+Akses,Pemantauan akses dinonaktifkan,Pengguna melaporkan pemantauan akses dinonaktifkan. Diperlukan investigasi lebih lanjut.
+Akses,Akses kartu identitas/fisik ditolak,Pengguna melaporkan akses kartu identitas/fisik ditolak. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan endpoint mencurigakan,Pengguna melaporkan peringatan endpoint mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Kesalahan sinkronisasi direktori,Pengguna melaporkan kesalahan sinkronisasi direktori. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Sesi berakhir karena batas waktu,Pengguna melaporkan sesi berakhir karena batas waktu. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kesalahan kartrid tinta printer,Pengguna melaporkan kesalahan kartrid tinta printer. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Baterai tidak mengisi daya,Pengguna melaporkan baterai tidak mengisi daya. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan SIEM mencurigakan,Pengguna melaporkan peringatan siem mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,File konfigurasi tidak ditemukan,Pengguna melaporkan file konfigurasi tidak ditemukan. Diperlukan investigasi lebih lanjut.
+Akses,Pelanggaran kebijakan akses,Pengguna melaporkan pelanggaran kebijakan akses. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berwarna merah muda,Pengguna melaporkan layar laptop berwarna merah muda. Diperlukan investigasi lebih lanjut.
+Akses,Autentikasi LDAP gagal,Pengguna melaporkan autentikasi ldap gagal. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: ketidaksesuaian duplex,Pengguna melaporkan jaringan: ketidaksesuaian duplex. Diperlukan investigasi lebih lanjut.
+Keamanan,Penyalahgunaan hak akses mencurigakan,Pengguna melaporkan penyalahgunaan hak akses mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Smart card tidak dikenali,Pengguna melaporkan smart card tidak dikenali. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: peringatan IDS,Pengguna melaporkan jaringan: peringatan ids. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: server syslog tidak aktif,Pengguna melaporkan jaringan: server syslog tidak aktif. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Browser berhenti mendadak,Pengguna melaporkan browser berhenti mendadak. Diperlukan investigasi lebih lanjut.
+Jaringan,Panggilan VoIP terputus,Pengguna melaporkan panggilan voip terputus. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh gateway,Pengguna melaporkan akses ditolak oleh gateway. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: tabrakan jaringan terdeteksi,Pengguna melaporkan jaringan: tabrakan jaringan terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan garis horizontal,Pengguna melaporkan layar laptop menampilkan garis horizontal. Diperlukan investigasi lebih lanjut.
+Jaringan,SSID tidak terlihat,Pengguna melaporkan ssid tidak terlihat. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh firewall,Pengguna melaporkan akses ditolak oleh firewall. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kegagalan sinkronisasi cloud,Pengguna melaporkan kegagalan sinkronisasi cloud. Diperlukan investigasi lebih lanjut.
+Akses,Akun tamu dinonaktifkan,Pengguna melaporkan akun tamu dinonaktifkan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: akses tidak sah,Pengguna melaporkan jaringan: akses tidak sah. Diperlukan investigasi lebih lanjut.
+Jaringan,Gangguan internet,Pengguna melaporkan gangguan internet. Diperlukan investigasi lebih lanjut.
+Akses,Lisensi kedaluwarsa,Pengguna melaporkan lisensi kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kesalahan split horizon,Pengguna melaporkan jaringan: kesalahan split horizon. Diperlukan investigasi lebih lanjut.
+Keamanan,ARP spoofing mencurigakan,Pengguna melaporkan arp spoofing mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kesalahan rute statis,Pengguna melaporkan jaringan: kesalahan rute statis. Diperlukan investigasi lebih lanjut.
+Keamanan,Insiden kebocoran data,Pengguna melaporkan insiden kebocoran data. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Hub USB tidak dikenali,Pengguna melaporkan hub usb tidak dikenali. Diperlukan investigasi lebih lanjut.
+Keamanan,Trojan terdeteksi,Pengguna melaporkan trojan terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Konflik patch,Pengguna melaporkan konflik patch. Diperlukan investigasi lebih lanjut.
+Keamanan,Pemanggilan API tidak sah,Pengguna melaporkan pemanggilan api tidak sah. Diperlukan investigasi lebih lanjut.
+Jaringan,Layanan cloud tidak dapat dijangkau,Pengguna melaporkan layanan cloud tidak dapat dijangkau. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Layanan tidak dapat dimulai,Pengguna melaporkan layanan tidak dapat dimulai. Diperlukan investigasi lebih lanjut.
+Jaringan,Port diblokir,Pengguna melaporkan port diblokir. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berwarna kebiruan,Pengguna melaporkan layar laptop berwarna kebiruan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat uninstall,Pengguna melaporkan aplikasi berhenti mendadak saat uninstall. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Paket instalasi rusak,Pengguna melaporkan paket instalasi rusak. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Antivirus tidak dapat diperbarui,Pengguna melaporkan antivirus tidak dapat diperbarui. Diperlukan investigasi lebih lanjut.
+Akses,Masalah login,Pengguna melaporkan masalah login. Diperlukan investigasi lebih lanjut.
+Jaringan,QoS salah konfigurasi,Pengguna melaporkan qos salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah kompatibilitas perangkat periferal,Pengguna melaporkan masalah kompatibilitas perangkat periferal. Diperlukan investigasi lebih lanjut.
+Keamanan,Kredensial telah dikompromikan,Pengguna melaporkan kredensial telah dikompromikan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kabel rusak,Pengguna melaporkan jaringan: kabel rusak. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh aplikasi,Pengguna melaporkan akses ditolak oleh aplikasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Akses USB tidak sah,Pengguna melaporkan akses usb tidak sah. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan garis vertikal,Pengguna melaporkan layar laptop menampilkan garis vertikal. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan layar putih,Pengguna melaporkan layar laptop menampilkan layar putih. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kesalahan konfigurasi,Pengguna melaporkan akses ditolak oleh kesalahan konfigurasi. Diperlukan investigasi lebih lanjut.
+Jaringan,Kabel terlepas,Pengguna melaporkan kabel terlepas. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas VM mencurigakan,Pengguna melaporkan aktivitas vm mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat instalasi,Pengguna melaporkan aplikasi berhenti mendadak saat instalasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah suara kipas,Pengguna melaporkan masalah suara kipas. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: packet sniffing terdeteksi,Pengguna melaporkan jaringan: packet sniffing terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan HIPAA,Pengguna melaporkan akses ditolak oleh kebijakan hipaa. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan PCI,Pengguna melaporkan akses ditolak oleh kebijakan pci. Diperlukan investigasi lebih lanjut.
+Keamanan,DNS poisoning mencurigakan,Pengguna melaporkan dns poisoning mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Kegagalan login SSO,Pengguna melaporkan kegagalan login sso. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: firewall kelebihan beban,Pengguna melaporkan jaringan: firewall kelebihan beban. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan jaringan,Pengguna melaporkan akses ditolak oleh kebijakan jaringan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Cache rusak,Pengguna melaporkan cache rusak. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan CIS,Pengguna melaporkan akses ditolak oleh kebijakan cis. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kamera laptop buram,Pengguna melaporkan kamera laptop buram. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Registry aplikasi rusak,Pengguna melaporkan registry aplikasi rusak. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan ABAC,Pengguna melaporkan akses ditolak oleh kebijakan abac. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Gangguan perangkat keras menyebabkan layar biru,Pengguna melaporkan gangguan perangkat keras menyebabkan layar biru. Diperlukan investigasi lebih lanjut.
+Keamanan,Serangan man-in-the-middle mencurigakan,Pengguna melaporkan serangan man-in-the-middle mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: pelanggaran kebijakan,Pengguna melaporkan jaringan: pelanggaran kebijakan. Diperlukan investigasi lebih lanjut.
+Akses,Permintaan hak administrator,Pengguna melaporkan permintaan hak administrator. Diperlukan investigasi lebih lanjut.
+Keamanan,RAT mencurigakan terdeteksi,Pengguna melaporkan rat mencurigakan terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan RBAC,Pengguna melaporkan akses ditolak oleh kebijakan rbac. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: RIP salah konfigurasi,Pengguna melaporkan jaringan: rip salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan perangkat seluler,Pengguna melaporkan akses ditolak oleh kebijakan perangkat seluler. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berwarna kehijauan,Pengguna melaporkan layar laptop berwarna kehijauan. Diperlukan investigasi lebih lanjut.
+Akses,Folder bersama tidak dapat diakses,Pengguna melaporkan folder bersama tidak dapat diakses. Diperlukan investigasi lebih lanjut.
+Keamanan,Lampiran email mencurigakan,Pengguna melaporkan lampiran email mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Port knocking mencurigakan,Pengguna melaporkan port knocking mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat,Pengguna melaporkan aplikasi berhenti mendadak saat memuat. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah docking station,Pengguna melaporkan masalah docking station. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan makro,Pengguna melaporkan aplikasi berhenti mendadak saat menjalankan makro. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan browser,Pengguna melaporkan akses ditolak oleh kebijakan browser. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan sertifikat,Pengguna melaporkan akses ditolak oleh kebijakan sertifikat. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kemacetan jaringan,Pengguna melaporkan jaringan: kemacetan jaringan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: ACL memblokir lalu lintas,Pengguna melaporkan jaringan: acl memblokir lalu lintas. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan container,Pengguna melaporkan aplikasi berhenti mendadak saat menjalankan container. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh pembatasan sementara,Pengguna melaporkan akses ditolak oleh pembatasan sementara. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan SOX,Pengguna melaporkan akses ditolak oleh kebijakan sox. Diperlukan investigasi lebih lanjut.
+Akses,Kegagalan autentikasi multi-faktor,Pengguna melaporkan kegagalan autentikasi multi-faktor. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menyimpan,Pengguna melaporkan aplikasi berhenti mendadak saat menyimpan. Diperlukan investigasi lebih lanjut.
+Akses,Kesalahan penyediaan akun,Pengguna melaporkan kesalahan penyediaan akun. Diperlukan investigasi lebih lanjut.
+Akses,Permintaan akses sementara,Pengguna melaporkan permintaan akses sementara. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop mengalami masalah refresh rate,Pengguna melaporkan layar laptop mengalami masalah refresh rate. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan sistem operasi,Pengguna melaporkan akses ditolak oleh kebijakan sistem operasi. Diperlukan investigasi lebih lanjut.
+Jaringan,Kesalahan konfigurasi BGP,Pengguna melaporkan kesalahan konfigurasi bgp. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat shutdown VM,Pengguna melaporkan aplikasi berhenti mendadak saat shutdown vm. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh akses bersyarat,Pengguna melaporkan akses ditolak oleh akses bersyarat. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Mesin virtual berhenti mendadak,Pengguna melaporkan mesin virtual berhenti mendadak. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan lampu latar keyboard laptop,Pengguna melaporkan kegagalan lampu latar keyboard laptop. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop driver tidak tersedia,Pengguna melaporkan layar laptop driver tidak tersedia. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah printer,Pengguna melaporkan masalah printer. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kesalahan pengalamatan IP,Pengguna melaporkan jaringan: kesalahan pengalamatan ip. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: NAT salah konfigurasi,Pengguna melaporkan jaringan: nat salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan SOC,Pengguna melaporkan akses ditolak oleh kebijakan soc. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan runtime skrip,Pengguna melaporkan kesalahan runtime skrip. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat deployment,Pengguna melaporkan aplikasi berhenti mendadak saat deployment. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar sentuh laptop tidak berfungsi,Pengguna melaporkan layar sentuh laptop tidak berfungsi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat plugin,Pengguna melaporkan aplikasi berhenti mendadak saat memuat plugin. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kapasitor motherboard rusak,Pengguna melaporkan kapasitor motherboard rusak. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop mengalami masalah grayscale,Pengguna melaporkan layar laptop mengalami masalah grayscale. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran kebijakan khusus mencurigakan,Pengguna melaporkan pelanggaran kebijakan khusus mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Router perlu di-reboot,Pengguna melaporkan router perlu di-reboot. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat analitik,Pengguna melaporkan aplikasi berhenti mendadak saat analitik. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan regulasi,Pengguna melaporkan akses ditolak oleh kebijakan regulasi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan eksekusi makro,Pengguna melaporkan kesalahan eksekusi makro. Diperlukan investigasi lebih lanjut.
+Keamanan,Pencurian cookie mencurigakan,Pengguna melaporkan pencurian cookie mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan skrip,Pengguna melaporkan aplikasi berhenti mendadak saat menjalankan skrip. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,GPU eksternal tidak terdeteksi,Pengguna melaporkan gpu eksternal tidak terdeteksi. Diperlukan investigasi lebih lanjut.
+Keamanan,Percobaan eskalasi hak akses,Pengguna melaporkan percobaan eskalasi hak akses. Diperlukan investigasi lebih lanjut.
+Keamanan,Manipulasi log audit mencurigakan,Pengguna melaporkan manipulasi log audit mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Loop routing,Pengguna melaporkan loop routing. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan kontraktor,Pengguna melaporkan akses ditolak oleh kebijakan kontraktor. Diperlukan investigasi lebih lanjut.
+Keamanan,Pembajakan DNS mencurigakan,Pengguna melaporkan pembajakan dns mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Sertifikat kedaluwarsa,Pengguna melaporkan sertifikat kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kesalahan sistem,Pengguna melaporkan akses ditolak oleh kesalahan sistem. Diperlukan investigasi lebih lanjut.
+Akses,Akun cloud ditangguhkan,Pengguna melaporkan akun cloud ditangguhkan. Diperlukan investigasi lebih lanjut.
+Akses,Token kedaluwarsa,Pengguna melaporkan token kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi macet saat startup,Pengguna melaporkan aplikasi macet saat startup. Diperlukan investigasi lebih lanjut.
+Jaringan,Konflik ARP,Pengguna melaporkan konflik arp. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan formula spreadsheet,Pengguna melaporkan kesalahan formula spreadsheet. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: lalu lintas salah rute,Pengguna melaporkan jaringan: lalu lintas salah rute. Diperlukan investigasi lebih lanjut.
+Keamanan,Tugas terjadwal mencurigakan,Pengguna melaporkan tugas terjadwal mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop kabelnya longgar,Pengguna melaporkan layar laptop kabelnya longgar. Diperlukan investigasi lebih lanjut.
+Akses,Login VPN ditolak,Pengguna melaporkan login vpn ditolak. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: pergeseran konfigurasi,Pengguna melaporkan jaringan: pergeseran konfigurasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop konektornya gagal berfungsi,Pengguna melaporkan layar laptop konektornya gagal berfungsi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat login,Pengguna melaporkan aplikasi berhenti mendadak saat login. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: loop terdeteksi,Pengguna melaporkan jaringan: loop terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Kata sandi sementara kedaluwarsa,Pengguna melaporkan kata sandi sementara kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Dependensi perangkat lunak tidak tersedia,Pengguna melaporkan dependensi perangkat lunak tidak tersedia. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat library,Pengguna melaporkan aplikasi berhenti mendadak saat memuat library. Diperlukan investigasi lebih lanjut.
+Keamanan,Cross-site scripting terdeteksi,Pengguna melaporkan cross-site scripting terdeteksi. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: ARP poisoning,Pengguna melaporkan jaringan: arp poisoning. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah kalibrasi scanner,Pengguna melaporkan masalah kalibrasi scanner. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh penyedia SaaS,Pengguna melaporkan akses ditolak oleh penyedia saas. Diperlukan investigasi lebih lanjut.
+Keamanan,Percobaan phishing dilaporkan,Pengguna melaporkan percobaan phishing dilaporkan. Diperlukan investigasi lebih lanjut.
+Jaringan,Kegagalan port switch,Pengguna melaporkan kegagalan port switch. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: driver sudah usang,Pengguna melaporkan jaringan: driver sudah usang. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan registry,Pengguna melaporkan kesalahan registry. Diperlukan investigasi lebih lanjut.
+Keamanan,Serangan DDoS terdeteksi,Pengguna melaporkan serangan ddos terdeteksi. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: percobaan spoofing,Pengguna melaporkan jaringan: percobaan spoofing. Diperlukan investigasi lebih lanjut.
+Jaringan,Gangguan layanan ISP,Pengguna melaporkan gangguan layanan isp. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Plugin tidak dapat dimuat,Pengguna melaporkan plugin tidak dapat dimuat. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran kepatuhan mencurigakan,Pengguna melaporkan pelanggaran kepatuhan mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: routing asimetris,Pengguna melaporkan jaringan: routing asimetris. Diperlukan investigasi lebih lanjut.
+Keamanan,Infeksi ransomware,Pengguna melaporkan infeksi ransomware. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop mengalami kesalahan resolusi,Pengguna melaporkan layar laptop mengalami kesalahan resolusi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemulihan,Pengguna melaporkan aplikasi berhenti mendadak saat pemulihan. Diperlukan investigasi lebih lanjut.
+Akses,Akun terkunci,Pengguna melaporkan akun terkunci. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan tunnel GRE,Pengguna melaporkan jaringan: kegagalan tunnel gre. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat kompilasi,Pengguna melaporkan aplikasi berhenti mendadak saat kompilasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Kompromi pihak ketiga mencurigakan,Pengguna melaporkan kompromi pihak ketiga mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan tunnel IPsec,Pengguna melaporkan jaringan: kegagalan tunnel ipsec. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan kepatuhan,Pengguna melaporkan akses ditolak oleh kebijakan kepatuhan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kecepatan lambat,Pengguna melaporkan jaringan: kecepatan lambat. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan slot RAM laptop,Pengguna melaporkan kegagalan slot ram laptop. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop berkedip,Pengguna melaporkan layar laptop berkedip. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan endpoint,Pengguna melaporkan akses ditolak oleh kebijakan endpoint. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Format file tidak didukung,Pengguna melaporkan format file tidak didukung. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: banjir peringatan,Pengguna melaporkan jaringan: banjir peringatan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi tidak merespons,Pengguna melaporkan aplikasi tidak merespons. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Engsel rusak,Pengguna melaporkan engsel rusak. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat migrasi VM,Pengguna melaporkan aplikasi berhenti mendadak saat migrasi vm. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,BIOS laptop rusak,Pengguna melaporkan bios laptop rusak. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: perangkat tidak sah terdeteksi,Pengguna melaporkan jaringan: perangkat tidak sah terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh server,Pengguna melaporkan akses ditolak oleh server. Diperlukan investigasi lebih lanjut.
+Jaringan,Kegagalan DHCP,Pengguna melaporkan kegagalan dhcp. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas botnet,Pengguna melaporkan aktivitas botnet. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Desktop tidak dapat boot,Pengguna melaporkan desktop tidak dapat boot. Diperlukan investigasi lebih lanjut.
+Jaringan,Sertifikat VPN kedaluwarsa,Pengguna melaporkan sertifikat vpn kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Monitor berkedip,Pengguna melaporkan monitor berkedip. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Konflik driver,Pengguna melaporkan konflik driver. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas administrator mencurigakan,Pengguna melaporkan aktivitas administrator mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan VPN,Pengguna melaporkan akses ditolak oleh kebijakan vpn. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan motherboard,Pengguna melaporkan kegagalan motherboard. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan bridge,Pengguna melaporkan jaringan: kegagalan bridge. Diperlukan investigasi lebih lanjut.
+Keamanan,MAC spoofing mencurigakan,Pengguna melaporkan mac spoofing mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Masalah resolusi DNS,Pengguna melaporkan masalah resolusi dns. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Penggunaan CPU aplikasi berlebihan,Pengguna melaporkan penggunaan cpu aplikasi berlebihan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop redup,Pengguna melaporkan layar laptop redup. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh layanan cloud,Pengguna melaporkan akses ditolak oleh layanan cloud. Diperlukan investigasi lebih lanjut.
+Jaringan,Port Ethernet dinonaktifkan,Pengguna melaporkan port ethernet dinonaktifkan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar tablet retak,Pengguna melaporkan layar tablet retak. Diperlukan investigasi lebih lanjut.
+Akses,Kesalahan delegasi akses,Pengguna melaporkan kesalahan delegasi akses. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat debugging,Pengguna melaporkan aplikasi berhenti mendadak saat debugging. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,File rusak,Pengguna melaporkan file rusak. Diperlukan investigasi lebih lanjut.
+Keamanan,Lokasi login mencurigakan,Pengguna melaporkan lokasi login mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kertas printer macet,Pengguna melaporkan kertas printer macet. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kegagalan alat pemantauan,Pengguna melaporkan jaringan: kegagalan alat pemantauan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan lampu proyektor,Pengguna melaporkan kegagalan lampu proyektor. Diperlukan investigasi lebih lanjut.
+Keamanan,Skrip PowerShell mencurigakan,Pengguna melaporkan skrip powershell mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran PCI mencurigakan,Pengguna melaporkan pelanggaran pci mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Kesalahan autentikasi proxy,Pengguna melaporkan kesalahan autentikasi proxy. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pengujian,Pengguna melaporkan aplikasi berhenti mendadak saat pengujian. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memutuskan koneksi,Pengguna melaporkan aplikasi berhenti mendadak saat memutuskan koneksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,GPU laptop tidak terdeteksi,Pengguna melaporkan gpu laptop tidak terdeteksi. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: peringatan IPS,Pengguna melaporkan jaringan: peringatan ips. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Masalah lisensi,Pengguna melaporkan masalah lisensi. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan enkripsi,Pengguna melaporkan akses ditolak oleh kebijakan enkripsi. Diperlukan investigasi lebih lanjut.
+Keamanan,Eksploit zero-day,Pengguna melaporkan eksploit zero-day. Diperlukan investigasi lebih lanjut.
+Jaringan,Broadcast storm,Pengguna melaporkan broadcast storm. Diperlukan investigasi lebih lanjut.
+Keamanan,Dump memori mencurigakan,Pengguna melaporkan dump memori mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Kesalahan mode bridge,Pengguna melaporkan kesalahan mode bridge. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah mouse,Pengguna melaporkan masalah mouse. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: PAT salah konfigurasi,Pengguna melaporkan jaringan: pat salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Perangkat lunak kehabisan waktu,Pengguna melaporkan perangkat lunak kehabisan waktu. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat dijalankan,Pengguna melaporkan aplikasi berhenti mendadak saat dijalankan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Tombol keyboard macet,Pengguna melaporkan tombol keyboard macet. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: server DNS tidak aktif,Pengguna melaporkan jaringan: server dns tidak aktif. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Scanner tidak terdeteksi,Pengguna melaporkan scanner tidak terdeteksi. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan intrusi firewall,Pengguna melaporkan peringatan intrusi firewall. Diperlukan investigasi lebih lanjut.
+Keamanan,Login cloud mencurigakan,Pengguna melaporkan login cloud mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kipas laptop berisik,Pengguna melaporkan kipas laptop berisik. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kebocoran memori terdeteksi,Pengguna melaporkan kebocoran memori terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,HDD eksternal tidak dapat dipasang,Pengguna melaporkan hdd eksternal tidak dapat dipasang. Diperlukan investigasi lebih lanjut.
+Jaringan,Kegagalan koneksi VPN,Pengguna melaporkan kegagalan koneksi vpn. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Mikrofon laptop tidak berfungsi,Pengguna melaporkan mikrofon laptop tidak berfungsi. Diperlukan investigasi lebih lanjut.
+Akses,Akun tidak aktif,Pengguna melaporkan akun tidak aktif. Diperlukan investigasi lebih lanjut.
+Keamanan,Serangan rantai pasok mencurigakan,Pengguna melaporkan serangan rantai pasok mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran SOX mencurigakan,Pengguna melaporkan pelanggaran sox mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Suara speaker laptop terdistorsi,Pengguna melaporkan suara speaker laptop terdistorsi. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: MPLS salah konfigurasi,Pengguna melaporkan jaringan: mpls salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Peringatan SCADA mencurigakan,Pengguna melaporkan peringatan scada mencurigakan. Diperlukan investigasi lebih lanjut.
+Akses,Akun dinonaktifkan oleh kebijakan,Pengguna melaporkan akun dinonaktifkan oleh kebijakan. Diperlukan investigasi lebih lanjut.
+Jaringan,IP duplikat terdeteksi,Pengguna melaporkan ip duplikat terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan garis-garis,Pengguna melaporkan layar laptop menampilkan garis-garis. Diperlukan investigasi lebih lanjut.
+Keamanan,Kompromi kontraktor mencurigakan,Pengguna melaporkan kompromi kontraktor mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Masalah captive portal,Pengguna melaporkan masalah captive portal. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Versi sistem operasi tidak didukung,Pengguna melaporkan versi sistem operasi tidak didukung. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran CIS mencurigakan,Pengguna melaporkan pelanggaran cis mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Deadlock pada aplikasi,Pengguna melaporkan deadlock pada aplikasi. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: EIGRP salah konfigurasi,Pengguna melaporkan jaringan: eigrp salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan RAM,Pengguna melaporkan kegagalan ram. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: jitter,Pengguna melaporkan jaringan: jitter. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: pemindaian port terdeteksi,Pengguna melaporkan jaringan: pemindaian port terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kegagalan startup aplikasi,Pengguna melaporkan kegagalan startup aplikasi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Proses latar belakang macet,Pengguna melaporkan proses latar belakang macet. Diperlukan investigasi lebih lanjut.
+Keamanan,Percobaan SQL injection,Pengguna melaporkan percobaan sql injection. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop mengalami masalah kecerahan,Pengguna melaporkan layar laptop mengalami masalah kecerahan. Diperlukan investigasi lebih lanjut.
+Keamanan,Pemalsuan email terdeteksi,Pengguna melaporkan pemalsuan email terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,CPU terlalu panas,Pengguna melaporkan cpu terlalu panas. Diperlukan investigasi lebih lanjut.
+Jaringan,Lonjakan latensi,Pengguna melaporkan lonjakan latensi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pembaruan,Pengguna melaporkan aplikasi berhenti mendadak saat pembaruan. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas hypervisor mencurigakan,Pengguna melaporkan aktivitas hypervisor mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Ketidakcocokan versi,Pengguna melaporkan ketidakcocokan versi. Diperlukan investigasi lebih lanjut.
+Keamanan,Pemindaian jaringan mencurigakan,Pengguna melaporkan pemindaian jaringan mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: VLAN salah konfigurasi,Pengguna melaporkan jaringan: vlan salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Trackpad laptop bergerak tidak stabil,Pengguna melaporkan trackpad laptop bergerak tidak stabil. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan warna terbalik,Pengguna melaporkan layar laptop menampilkan warna terbalik. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Masalah klik ganda mouse,Pengguna melaporkan masalah klik ganda mouse. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kegagalan catu daya,Pengguna melaporkan kegagalan catu daya. Diperlukan investigasi lebih lanjut.
+Keamanan,Kesalahan konfigurasi cloud,Pengguna melaporkan kesalahan konfigurasi cloud. Diperlukan investigasi lebih lanjut.
+Akses,Daftar kontrol akses salah konfigurasi,Pengguna melaporkan daftar kontrol akses salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran HIPAA mencurigakan,Pengguna melaporkan pelanggaran hipaa mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pemanggilan layanan,Pengguna melaporkan aplikasi berhenti mendadak saat pemanggilan layanan. Diperlukan investigasi lebih lanjut.
+Keamanan,Kompromi vendor mencurigakan,Pengguna melaporkan kompromi vendor mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Kerentanan yang belum ditambal,Pengguna melaporkan kerentanan yang belum ditambal. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh jendela pemeliharaan,Pengguna melaporkan akses ditolak oleh jendela pemeliharaan. Diperlukan investigasi lebih lanjut.
+Keamanan,Eksfiltrasi data mencurigakan terdeteksi,Pengguna melaporkan eksfiltrasi data mencurigakan terdeteksi. Diperlukan investigasi lebih lanjut.
+Akses,Kegagalan login dengan sertifikat,Pengguna melaporkan kegagalan login dengan sertifikat. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: OSPF salah konfigurasi,Pengguna melaporkan jaringan: ospf salah konfigurasi. Diperlukan investigasi lebih lanjut.
+Akses,Batas waktu akses habis,Pengguna melaporkan batas waktu akses habis. Diperlukan investigasi lebih lanjut.
+Keamanan,IP spoofing mencurigakan,Pengguna melaporkan ip spoofing mencurigakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Pelanggaran GDPR mencurigakan,Pengguna melaporkan pelanggaran gdpr mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kartu grafis terlalu panas,Pengguna melaporkan kartu grafis terlalu panas. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop memiliki piksel mati,Pengguna melaporkan layar laptop memiliki piksel mati. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Hard drive mengalami kerusakan,Pengguna melaporkan hard drive mengalami kerusakan. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas mencurigakan terdeteksi,Pengguna melaporkan aktivitas mencurigakan terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Hubung singkat motherboard laptop,Pengguna melaporkan hubung singkat motherboard laptop. Diperlukan investigasi lebih lanjut.
+Keamanan,Instalasi driver mencurigakan,Pengguna melaporkan instalasi driver mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop retak,Pengguna melaporkan layar laptop retak. Diperlukan investigasi lebih lanjut.
+Keamanan,Perangkat USB diblokir,Pengguna melaporkan perangkat usb diblokir. Diperlukan investigasi lebih lanjut.
+Jaringan,Kekuatan sinyal lemah,Pengguna melaporkan kekuatan sinyal lemah. Diperlukan investigasi lebih lanjut.
+Akses,Percobaan login tidak sah,Pengguna melaporkan percobaan login tidak sah. Diperlukan investigasi lebih lanjut.
+Keamanan,Startup layanan mencurigakan,Pengguna melaporkan startup layanan mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Masalah rollback pembaruan,Pengguna melaporkan masalah rollback pembaruan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Laptop mati karena terlalu panas,Pengguna melaporkan laptop mati karena terlalu panas. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: server NTP tidak dapat dijangkau,Pengguna melaporkan jaringan: server ntp tidak dapat dijangkau. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: pelanggaran kepatuhan,Pengguna melaporkan jaringan: pelanggaran kepatuhan. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: kesalahan segmentasi,Pengguna melaporkan jaringan: kesalahan segmentasi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat memuat ekstensi,Pengguna melaporkan aplikasi berhenti mendadak saat memuat ekstensi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan autentikasi,Pengguna melaporkan kesalahan autentikasi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,IDE tidak dapat dibuka,Pengguna melaporkan ide tidak dapat dibuka. Diperlukan investigasi lebih lanjut.
+Jaringan,Jaringan: default gateway tidak tersedia,Pengguna melaporkan jaringan: default gateway tidak tersedia. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan NIST,Pengguna melaporkan akses ditolak oleh kebijakan nist. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak,Pengguna melaporkan aplikasi berhenti mendadak. Diperlukan investigasi lebih lanjut.
+Keamanan,Basis data terekspos,Pengguna melaporkan basis data terekspos. Diperlukan investigasi lebih lanjut.
+Akses,Persetujuan akses tertunda,Pengguna melaporkan persetujuan akses tertunda. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop menampilkan gambar beku,Pengguna melaporkan layar laptop menampilkan gambar beku. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menjalankan workflow,Pengguna melaporkan aplikasi berhenti mendadak saat menjalankan workflow. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat pencadangan,Pengguna melaporkan aplikasi berhenti mendadak saat pencadangan. Diperlukan investigasi lebih lanjut.
+Akses,Tiket Kerberos kedaluwarsa,Pengguna melaporkan tiket kerberos kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Docking station tidak dikenali,Pengguna melaporkan docking station tidak dikenali. Diperlukan investigasi lebih lanjut.
+Keamanan,Injeksi paket mencurigakan,Pengguna melaporkan injeksi paket mencurigakan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Monitor memiliki piksel mati,Pengguna melaporkan monitor memiliki piksel mati. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kepatuhan perangkat,Pengguna melaporkan akses ditolak oleh kepatuhan perangkat. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan vendor,Pengguna melaporkan akses ditolak oleh kebijakan vendor. Diperlukan investigasi lebih lanjut.
+Keamanan,Backdoor mencurigakan terdeteksi,Pengguna melaporkan backdoor mencurigakan terdeteksi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Kesalahan BIOS,Pengguna melaporkan kesalahan bios. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Lisensi aplikasi kedaluwarsa,Pengguna melaporkan lisensi aplikasi kedaluwarsa. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop mengalami burn-in,Pengguna melaporkan layar laptop mengalami burn-in. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat membuat laporan,Pengguna melaporkan aplikasi berhenti mendadak saat membuat laporan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Touchpad tidak merespons,Pengguna melaporkan touchpad tidak merespons. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat visualisasi,Pengguna melaporkan aplikasi berhenti mendadak saat visualisasi. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Driver perangkat keras tidak ditemukan,Pengguna melaporkan driver perangkat keras tidak ditemukan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan BYOD,Pengguna melaporkan akses ditolak oleh kebijakan byod. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Pembaruan patch gagal,Pengguna melaporkan pembaruan patch gagal. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan token,Pengguna melaporkan akses ditolak oleh kebijakan token. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan DLP,Pengguna melaporkan akses ditolak oleh kebijakan dlp. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat boot VM,Pengguna melaporkan aplikasi berhenti mendadak saat boot vm. Diperlukan investigasi lebih lanjut.
+Keamanan,Aktivitas kernel mencurigakan,Pengguna melaporkan aktivitas kernel mencurigakan. Diperlukan investigasi lebih lanjut.
+Jaringan,Koneksi nirkabel tidak stabil,Pengguna melaporkan koneksi nirkabel tidak stabil. Diperlukan investigasi lebih lanjut.
+Akses,Akun email dinonaktifkan,Pengguna melaporkan akun email dinonaktifkan. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan geolokasi,Pengguna melaporkan akses ditolak oleh kebijakan geolokasi. Diperlukan investigasi lebih lanjut.
+Akses,Pencabutan akses tertunda,Pengguna melaporkan pencabutan akses tertunda. Diperlukan investigasi lebih lanjut.
+Akses,Akses ditolak oleh kebijakan MFA,Pengguna melaporkan akses ditolak oleh kebijakan mfa. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Aplikasi berhenti mendadak saat menghubungkan,Pengguna melaporkan aplikasi berhenti mendadak saat menghubungkan. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop lampu latar gagal berfungsi,Pengguna melaporkan layar laptop lampu latar gagal berfungsi. Diperlukan investigasi lebih lanjut.
+Perangkat Lunak,Kesalahan deployment container,Pengguna melaporkan kesalahan deployment container. Diperlukan investigasi lebih lanjut.
+Perangkat Keras,Layar laptop mengalami ghosting,Pengguna melaporkan layar laptop mengalami ghosting. Diperlukan investigasi lebih lanjut.

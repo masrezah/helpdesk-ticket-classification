@@ -1,0 +1,5 @@
+﻿Model,Accuracy,Macro Precision,Macro Recall,Macro F1
+E1 - MLP,0.9511,0.9523,0.9511,0.9509
+B0 - Logistic Regression,0.9422,0.9435,0.9422,0.9423
+E2 - LSTM,0.92,0.9256,0.92,0.9208
+E3 - LSTM + Dropout,0.9156,0.9218,0.9156,0.9165

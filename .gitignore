@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Kaggle / local generated outputs
+final_project_outputs/
+*.h5
+*.keras
+
+# File mentah besar tidak perlu dimasukkan ke repo
+helpdesk_tickets.csv
+helpdesk_tickets_bahasa_indonesia_full.csv

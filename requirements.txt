@@ -1,0 +1,7 @@
+numpy>=2.0,<3.0
+pandas>=2.3,<3.0
+scikit-learn>=1.5,<2.0
+tensorflow>=2.20,<2.21
+matplotlib>=3.8,<4.0
+jupyter>=1.0
+ipykernel>=6.0

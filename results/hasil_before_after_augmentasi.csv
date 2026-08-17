@@ -1,0 +1,5 @@
+﻿Model,Kondisi,Jumlah Training,Accuracy,Macro F1
+B0 - Logistic Regression,Sebelum Augmentasi,343,0.8267,0.8266
+B0 - Logistic Regression,Setelah Augmentasi,1050,0.8267,0.8267
+E1 - MLP,Sebelum Augmentasi,343,0.8533,0.8528
+E1 - MLP,Setelah Augmentasi,1050,0.8533,0.8506

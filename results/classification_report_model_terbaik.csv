@@ -1,0 +1,6 @@
+﻿Kategori,Precision,Recall,F1-score,Support
+Akses,0.956522,0.977778,0.967033,45
+Jaringan,0.97561,0.888889,0.930233,45
+Keamanan,0.916667,0.977778,0.946237,45
+Perangkat Keras,0.93617,0.977778,0.956522,45
+Perangkat Lunak,0.976744,0.933333,0.954545,45
